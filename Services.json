@@ -83,7 +83,7 @@
         "eng": "Electricity"
       },
       "subServices": [
-                {
+        {
           "translations": {
             "fr": {
               "name": "Nettoyage de bureau",
