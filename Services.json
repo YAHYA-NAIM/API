@@ -73,6 +73,16 @@
           "picture": "assets/images/cleaning_post_construction.png"
         }
       ]
+    },
+    {
+      "key": "categoryElectricity",
+      "translations": {
+        "fr": "Électricité",
+        "ar": "كهرباء",
+        "zh": "电力",
+        "eng": "Electricity"
+      },
+      "subServices": []
     }
   ]
 }
