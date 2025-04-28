@@ -82,7 +82,71 @@
         "zh": "电力",
         "eng": "Electricity"
       },
-      "subServices": []
+      "subServices": [
+                {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de bureau",
+              "description": "Service de nettoyage pour les espaces de bureau."
+            },
+            "ar": {
+              "name": "تنظيف المكاتب",
+              "description": "خدمة تنظيف مخصصة للمكاتب."
+            },
+            "zh": {
+              "name": "办公室清洁",
+              "description": "为办公室提供的清洁服务。"
+            },
+            "eng": {
+              "name": "Office Cleaning",
+              "description": "Cleaning service for office spaces."
+            }
+          },
+          "picture": "assets/images/cleaning_office.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage résidentiel",
+              "description": "Nettoyage complet pour les maisons et appartements."
+            },
+            "ar": {
+              "name": "تنظيف المنازل",
+              "description": "تنظيف شامل للمنازل والشقق."
+            },
+            "zh": {
+              "name": "住宅清洁",
+              "description": "为住宅和公寓提供全面清洁服务。"
+            },
+            "eng": {
+              "name": "Residential Cleaning",
+              "description": "Full-service cleaning for homes and apartments."
+            }
+          },
+          "picture": "assets/images/cleaning_home.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage après travaux",
+              "description": "Nettoyage en profondeur après rénovation ou construction."
+            },
+            "ar": {
+              "name": "تنظيف بعد البناء",
+              "description": "تنظيف شامل بعد أعمال البناء أو الترميم."
+            },
+            "zh": {
+              "name": "装修后清洁",
+              "description": "装修或施工后的深度清洁服务。"
+            },
+            "eng": {
+              "name": "Post-Construction Cleaning",
+              "description": "Deep cleaning after renovation or construction work."
+            }
+          },
+          "picture": "assets/images/cleaning_post_construction.png"
+        }
+      ]
     }
   ]
 }
