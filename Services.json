@@ -12,7 +12,7 @@
         {
           "translations": {
             "fr": {
-              "name": "Nettoyage de bureau",
+              "name": "Nettoyage de bureaux",
               "description": "Service de nettoyage pour les espaces de bureau."
             },
             "ar": {
@@ -55,40 +55,19 @@
           "translations": {
             "fr": {
               "name": "Nettoyage de fin de chantier",
-              "description": "Service de nettoyage complet après achèvement des travaux."
+              "description": "Service de nettoyage après la construction ou la rénovation."
             },
             "ar": {
-              "name": "تنظيف نهاية المشروع",
-              "description": "خدمة تنظيف شاملة بعد انتهاء أعمال البناء."
+              "name": "تنظيف بعد البناء",
+              "description": "خدمة تنظيف بعد الإنشاء أو التجديد."
             },
             "zh": {
               "name": "施工后清洁",
-              "description": "施工完成后的全面清洁服务。"
+              "description": "建筑或翻修后的清洁服务。"
             },
             "eng": {
-              "name": "End of Construction Cleaning",
-              "description": "Complete cleaning service after completion of construction work."
-            }
-          },
-          "picture": "assets/images/cleaning_end_construction.png"
-        },
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage après travaux",
-              "description": "Nettoyage spécialisé suite à des travaux de rénovation."
-            },
-            "ar": {
-              "name": "تنظيف بعد أعمال البناء",
-              "description": "تنظيف متخصص بعد أعمال التجديد."
-            },
-            "zh": {
-              "name": "装修后清洁",
-              "description": "装修工程后的专业清洁服务。"
-            },
-            "eng": {
-              "name": "Post-Construction Cleaning",
-              "description": "Specialized cleaning following renovation work."
+              "name": "Post-construction Cleaning",
+              "description": "Cleaning service after construction or renovation."
             }
           },
           "picture": "assets/images/cleaning_post_construction.png"
@@ -96,146 +75,167 @@
         {
           "translations": {
             "fr": {
+              "name": "Nettoyage après travaux",
+              "description": "Service de nettoyage après des travaux de rénovation ou réparation."
+            },
+            "ar": {
+              "name": "تنظيف بعد الأعمال",
+              "description": "خدمة تنظيف بعد أعمال التجديد أو الإصلاح."
+            },
+            "zh": {
+              "name": "施工后清洁",
+              "description": "翻新或修理后的清洁服务。"
+            },
+            "eng": {
+              "name": "Cleaning After Work",
+              "description": "Cleaning service after renovation or repair work."
+            }
+          },
+          "picture": "assets/images/cleaning_after_work.png"
+        },
+        {
+          "translations": {
+            "fr": {
               "name": "Nettoyage de locaux",
-              "description": "Service de nettoyage pour tous types de locaux commerciaux."
+              "description": "Service de nettoyage pour des locaux commerciaux et industriels."
             },
             "ar": {
-              "name": "تنظيف المباني التجارية",
-              "description": "خدمة تنظيف لجميع أنواع المباني التجارية."
+              "name": "تنظيف الأماكن",
+              "description": "خدمة تنظيف الأماكن التجارية والصناعية."
             },
             "zh": {
-              "name": "商业场所清洁",
-              "description": "各类商业场所的清洁服务。"
+              "name": "场所清洁",
+              "description": "为商业和工业场所提供的清洁服务。"
             },
             "eng": {
-              "name": "Commercial Premises Cleaning",
-              "description": "Cleaning service for all types of commercial premises."
+              "name": "Premises Cleaning",
+              "description": "Cleaning service for commercial and industrial premises."
             }
           },
-          "picture": "assets/images/cleaning_commercial.png"
+          "picture": "assets/images/cleaning_premises.png"
         },
         {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage des maisons",
-              "description": "Service de nettoyage complet pour maisons individuelles."
-            },
-            "ar": {
-              "name": "تنظيف المنازل",
-              "description": "خدمة تنظيف شاملة للمنازل الفردية."
-            },
-            "zh": {
-              "name": "住宅清洁",
-              "description": "独栋住宅的全面清洁服务。"
-            },
-            "eng": {
-              "name": "House Cleaning",
-              "description": "Complete cleaning service for individual houses."
-            }
+            "translations": {
+          "fr": {
+            "name": "Nettoyage des maisons",
+            "description": "Service de nettoyage pour les maisons résidentielles."
           },
-          "picture": "assets/images/cleaning_house.png"
-        },
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage appartements",
-              "description": "Service de nettoyage adapté aux espaces d'appartements."
-            },
-            "ar": {
-              "name": "تنظيف الشقق",
-              "description": "خدمة تنظيف مخصصة لمساحات الشقق."
-            },
-            "zh": {
-              "name": "公寓清洁",
-              "description": "专为公寓空间设计的清洁服务。"
-            },
-            "eng": {
-              "name": "Apartment Cleaning",
-              "description": "Cleaning service tailored for apartment spaces."
-            }
+          "ar": {
+            "name": "تنظيف المنازل",
+            "description": "خدمة تنظيف للمنازل السكنية."
           },
-          "picture": "assets/images/cleaning_apartment.png"
-        },
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage de villas",
-              "description": "Service de nettoyage premium pour villas et grandes résidences."
-            },
-            "ar": {
-              "name": "تنظيف الفلل",
-              "description": "خدمة تنظيف ممتازة للفلل والمساكن الكبيرة."
-            },
-            "zh": {
-              "name": "别墅清洁",
-              "description": "别墅和大型住宅的高级清洁服务。"
-            },
-            "eng": {
-              "name": "Villa Cleaning",
-              "description": "Premium cleaning service for villas and large residences."
-            }
+          "zh": {
+            "name": "住宅清洁",
+            "description": "为住宅提供的清洁服务。"
           },
-          "picture": "assets/images/cleaning_villa.png"
+          "eng": {
+            "name": "House Cleaning",
+            "description": "Cleaning service for residential houses."
+          }
         },
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage immeubles et résidences",
-              "description": "Service de nettoyage pour les espaces communs des immeubles résidentiels."
-            },
-            "ar": {
-              "name": "تنظيف المباني والمجمعات السكنية",
-              "description": "خدمة تنظيف للمساحات المشتركة في المباني السكنية."
-            },
-            "zh": {
-              "name": "公寓楼和住宅区清洁",
-              "description": "住宅楼公共区域的清洁服务。"
-            },
-            "eng": {
-              "name": "Building and Residence Cleaning",
-              "description": "Cleaning service for common areas of residential buildings."
-            }
+        "picture": "assets/images/cleaning_house.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Nettoyage appartements",
+            "description": "Service de nettoyage pour les appartements."
           },
-          "picture": "assets/images/cleaning_building.png"
-        },
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage hôtels",
-              "description": "Services de nettoyage spécialisés pour le secteur hôtelier."
-            },
-            "ar": {
-              "name": "تنظيف الفنادق",
-              "description": "خدمات تنظيف متخصصة لقطاع الفنادق."
-            },
-            "zh": {
-              "name": "酒店清洁",
-              "description": "酒店行业的专业清洁服务。"
-            },
-            "eng": {
-              "name": "Hotel Cleaning",
-              "description": "Specialized cleaning services for the hotel sector."
-            }
+          "ar": {
+            "name": "تنظيف الشقق",
+            "description": "خدمة تنظيف للشقق."
           },
-          "picture": "assets/images/cleaning_hotel.png"
+          "zh": {
+            "name": "公寓清洁",
+            "description": "为公寓提供的清洁服务。"
+          },
+          "eng": {
+            "name": "Apartment Cleaning",
+            "description": "Cleaning service for apartments."
+          }
+        },
+        "picture": "assets/images/cleaning_apartment.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Nettoyage de villas",
+            "description": "Service de nettoyage pour les villas de luxe."
+          },
+          "ar": {
+            "name": "تنظيف الفيلات",
+            "description": "خدمة تنظيف للفيلات الفاخرة."
+          },
+          "zh": {
+            "name": "别墅清洁",
+            "description": "为豪华别墅提供的清洁服务。"
+          },
+          "eng": {
+            "name": "Villa Cleaning",
+            "description": "Cleaning service for luxury villas."
+          }
+        },
+        "picture": "assets/images/cleaning_villa.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Nettoyage immeubles et résidences",
+            "description": "Service de nettoyage pour les immeubles et résidences."
+          },
+          "ar": {
+            "name": "تنظيف المباني والمساكن",
+            "description": "خدمة تنظيف للمباني والمساكن."
+          },
+          "zh": {
+            "name": "建筑与住宅清洁",
+            "description": "为建筑和住宅提供的清洁服务。"
+          },
+          "eng": {
+            "name": "Building and Residence Cleaning",
+            "description": "Cleaning service for buildings and residences."
+          }
+        },
+        "picture": "assets/images/cleaning_building_residence.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Nettoyage hôtels",
+            "description": "Service de nettoyage pour les hôtels et complexes."
+          },
+          "ar": {
+            "name": "تنظيف الفنادق",
+            "description": "خدمة تنظيف للفنادق والمنتجعات."
+          },
+          "zh": {
+            "name": "酒店清洁",
+            "description": "为酒店和度假村提供的清洁服务。"
+          },
+          "eng": {
+            "name": "Hotel Cleaning",
+            "description": "Cleaning service for hotels and resorts."
+          }
+        },
+        "picture": "assets/images/cleaning_hotel.png"
         },
         {
-          "translations": {
+              "translations": {
             "fr": {
               "name": "Nettoyage de restaurants",
-              "description": "Nettoyage professionnel pour établissements de restauration."
+              "description": "Service de nettoyage pour les restaurants et établissements de restauration."
             },
             "ar": {
               "name": "تنظيف المطاعم",
-              "description": "تنظيف احترافي لمؤسسات تقديم الطعام."
+              "description": "خدمة تنظيف للمطاعم والمرافق الغذائية."
             },
             "zh": {
               "name": "餐厅清洁",
-              "description": "餐饮场所的专业清洁服务。"
+              "description": "为餐厅和餐饮场所提供的清洁服务。"
             },
             "eng": {
               "name": "Restaurant Cleaning",
-              "description": "Professional cleaning for food service establishments."
+              "description": "Cleaning service for restaurants and dining establishments."
             }
           },
           "picture": "assets/images/cleaning_restaurant.png"
@@ -244,40 +244,40 @@
           "translations": {
             "fr": {
               "name": "Nettoyage de vitres",
-              "description": "Service spécialisé pour le nettoyage de toutes surfaces vitrées."
+              "description": "Service de nettoyage pour les fenêtres et surfaces vitrées."
             },
             "ar": {
               "name": "تنظيف النوافذ",
-              "description": "خدمة متخصصة لتنظيف جميع الأسطح الزجاجية."
+              "description": "خدمة تنظيف النوافذ والأسطح الزجاجية."
             },
             "zh": {
               "name": "窗户清洁",
-              "description": "各类玻璃表面的专业清洁服务。"
+              "description": "为窗户和玻璃表面提供的清洁服务。"
             },
             "eng": {
               "name": "Window Cleaning",
-              "description": "Specialized service for cleaning all glass surfaces."
+              "description": "Cleaning service for windows and glass surfaces."
             }
           },
-          "picture": "assets/images/cleaning_window.png"
+          "picture": "assets/images/cleaning_windows.png"
         },
         {
           "translations": {
             "fr": {
               "name": "Nettoyage industriel",
-              "description": "Solutions de nettoyage adaptées aux environnements industriels."
+              "description": "Service de nettoyage pour les sites industriels et usines."
             },
             "ar": {
               "name": "التنظيف الصناعي",
-              "description": "حلول تنظيف مخصصة للبيئات الصناعية."
+              "description": "خدمة تنظيف للمواقع الصناعية والمصانع."
             },
             "zh": {
               "name": "工业清洁",
-              "description": "适用于工业环境的清洁解决方案。"
+              "description": "为工业场所和工厂提供的清洁服务。"
             },
             "eng": {
               "name": "Industrial Cleaning",
-              "description": "Cleaning solutions tailored for industrial environments."
+              "description": "Cleaning service for industrial sites and factories."
             }
           },
           "picture": "assets/images/cleaning_industrial.png"
@@ -286,19 +286,19 @@
           "translations": {
             "fr": {
               "name": "Nettoyage moquettes",
-              "description": "Service de nettoyage en profondeur pour tous types de moquettes."
+              "description": "Service de nettoyage pour les moquettes et tapis."
             },
             "ar": {
               "name": "تنظيف السجاد",
-              "description": "خدمة تنظيف عميقة لجميع أنواع السجاد."
+              "description": "خدمة تنظيف للسجاد والموكيت."
             },
             "zh": {
               "name": "地毯清洁",
-              "description": "各类地毯的深度清洁服务。"
+              "description": "为地毯和地垫提供的清洁服务。"
             },
             "eng": {
               "name": "Carpet Cleaning",
-              "description": "Deep cleaning service for all types of carpets."
+              "description": "Cleaning service for carpets and rugs."
             }
           },
           "picture": "assets/images/cleaning_carpet.png"
@@ -307,166 +307,166 @@
           "translations": {
             "fr": {
               "name": "Nettoyage de parquets",
-              "description": "Service spécialisé pour l'entretien et le nettoyage de parquets."
+              "description": "Service de nettoyage pour les parquets et sols en bois."
             },
             "ar": {
               "name": "تنظيف الأرضيات الخشبية",
-              "description": "خدمة متخصصة لصيانة وتنظيف الأرضيات الخشبية."
+              "description": "خدمة تنظيف للأرضيات الخشبية والباركيه."
             },
             "zh": {
               "name": "木地板清洁",
-              "description": "木地板的专业维护和清洁服务。"
+              "description": "为木地板和实木地板提供的清洁服务。"
             },
             "eng": {
               "name": "Wooden Floor Cleaning",
-              "description": "Specialized service for maintenance and cleaning of wooden floors."
+              "description": "Cleaning service for wooden floors and parquet."
             }
           },
           "picture": "assets/images/cleaning_wooden_floor.png"
         },
         {
-          "translations": {
-            "fr": {
-              "name": "Ponçage et cristallisation de marbres",
-              "description": "Traitement professionnel pour restaurer et faire briller les surfaces en marbre."
-            },
-            "ar": {
-              "name": "صنفرة وتبلور الرخام",
-              "description": "معالجة احترافية لاستعادة وتلميع الأسطح الرخامية."
-            },
-            "zh": {
-              "name": "大理石打磨和结晶",
-              "description": "恢复和增亮大理石表面的专业处理。"
-            },
-            "eng": {
-              "name": "Marble Sanding and Crystallization",
-              "description": "Professional treatment to restore and shine marble surfaces."
-            }
+            "translations": {
+          "fr": {
+            "name": "Ponçage et cristallisation de marbres",
+            "description": "Service de ponçage et cristallisation pour les surfaces en marbre."
           },
-          "picture": "assets/images/cleaning_marble.png"
+          "ar": {
+            "name": "صقل وتبلور الرخام",
+            "description": "خدمة صقل وتبلور الأسطح الرخامية."
+          },
+          "zh": {
+            "name": "大理石抛光和结晶",
+            "description": "为大理石表面提供的抛光和结晶服务。"
+          },
+          "eng": {
+            "name": "Marble Polishing and Crystallization",
+            "description": "Polishing and crystallization service for marble surfaces."
+          }
         },
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage et cristallisation carrelages",
-              "description": "Service de nettoyage et traitement pour redonner de l'éclat aux carrelages."
-            },
-            "ar": {
-              "name": "تنظيف وتبلور البلاط",
-              "description": "خدمة تنظيف ومعالجة لإعادة اللمعان إلى البلاط."
-            },
-            "zh": {
-              "name": "瓷砖清洁和结晶",
-              "description": "恢复瓷砖光泽的清洁和处理服务。"
-            },
-            "eng": {
-              "name": "Tile Cleaning and Crystallization",
-              "description": "Cleaning and treatment service to restore shine to tiles."
-            }
+        "picture": "assets/images/polishing_marble.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Nettoyage et cristallisation carrelages",
+            "description": "Service de nettoyage et cristallisation des carreaux de céramique et de faïence."
           },
-          "picture": "assets/images/cleaning_tile.png"
+          "ar": {
+            "name": "تنظيف وتبلور البلاط",
+            "description": "خدمة تنظيف وتبلور البلاط والسيراميك."
+          },
+          "zh": {
+            "name": "瓷砖清洁和结晶",
+            "description": "为瓷砖和陶瓷表面提供的清洁和结晶服务。"
+          },
+          "eng": {
+            "name": "Tile Cleaning and Crystallization",
+            "description": "Cleaning and crystallization service for ceramic and porcelain tiles."
+          }
         },
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage et cristallisation mosaïques",
-              "description": "Service spécialisé pour le nettoyage et la restauration de mosaïques."
-            },
-            "ar": {
-              "name": "تنظيف وتبلور الفسيفساء",
-              "description": "خدمة متخصصة لتنظيف وترميم الفسيفساء."
-            },
-            "zh": {
-              "name": "马赛克清洁和结晶",
-              "description": "马赛克清洁和修复的专业服务。"
-            },
-            "eng": {
-              "name": "Mosaic Cleaning and Crystallization",
-              "description": "Specialized service for cleaning and restoring mosaics."
-            }
+        "picture": "assets/images/cleaning_tiles.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Nettoyage et cristallisation mosaïques",
+            "description": "Service de nettoyage et cristallisation des surfaces en mosaïque."
           },
-          "picture": "assets/images/cleaning_mosaic.png"
+          "ar": {
+            "name": "تنظيف وتبلور الموزاييك",
+            "description": "خدمة تنظيف وتبلور الأسطح الموزاييك."
+          },
+          "zh": {
+            "name": "马赛克清洁和结晶",
+            "description": "为马赛克表面提供的清洁和结晶服务。"
+          },
+          "eng": {
+            "name": "Mosaic Cleaning and Crystallization",
+            "description": "Cleaning and crystallization service for mosaic surfaces."
+          }
         },
-        {
-          "translations": {
-            "fr": {
-              "name": "Ponçage et cristallisation sols",
-              "description": "Service de traitement pour tous types de sols en pierre ou marbre."
-            },
-            "ar": {
-              "name": "صنفرة وتبلور الأرضيات",
-              "description": "خدمة معالجة لجميع أنواع الأرضيات الحجرية أو الرخامية."
-            },
-            "zh": {
-              "name": "地板打磨和结晶",
-              "description": "各类石材或大理石地板的处理服务。"
-            },
-            "eng": {
-              "name": "Floor Sanding and Crystallization",
-              "description": "Treatment service for all types of stone or marble floors."
-            }
+        "picture": "assets/images/cleaning_mosaic.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Ponçage et cristallisation sols",
+            "description": "Service de ponçage et cristallisation des sols en pierre et autres matériaux."
           },
-          "picture": "assets/images/cleaning_floor_crystal.png"
+          "ar": {
+            "name": "صقل وتبلور الأرضيات",
+            "description": "خدمة صقل وتبلور الأرضيات المصنوعة من الحجر أو مواد أخرى."
+          },
+          "zh": {
+            "name": "地面抛光和结晶",
+            "description": "为石材和其他地面提供的抛光和结晶服务。"
+          },
+          "eng": {
+            "name": "Floor Polishing and Crystallization",
+            "description": "Polishing and crystallization service for stone floors and other materials."
+          }
         },
-        {
-          "translations": {
-            "fr": {
-              "name": "Ponçage de parquets",
-              "description": "Service de rénovation et finition pour parquets en bois."
-            },
-            "ar": {
-              "name": "صنفرة الأرضيات الخشبية",
-              "description": "خدمة تجديد وتشطيب للأرضيات الخشبية."
-            },
-            "zh": {
-              "name": "木地板打磨",
-              "description": "木地板翻新和修整服务。"
-            },
-            "eng": {
-              "name": "Wooden Floor Sanding",
-              "description": "Renovation and finishing service for wooden floors."
-            }
+        "picture": "assets/images/polishing_floors.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Ponçage de parquets",
+            "description": "Service de ponçage des parquets en bois."
           },
-          "picture": "assets/images/cleaning_wood_sanding.png"
+          "ar": {
+            "name": "صقل الباركيه",
+            "description": "خدمة صقل الأرضيات الخشبية (باركيه)."
+          },
+          "zh": {
+            "name": "木地板打磨",
+            "description": "为木地板提供的打磨服务。"
+          },
+          "eng": {
+            "name": "Parquet Sanding",
+            "description": "Sanding service for wooden parquet floors."
+          }
+        },
+        "picture": "assets/images/sanding_parquet.png"
         },
         {
           "translations": {
             "fr": {
               "name": "Entretien moquettes",
-              "description": "Service de maintenance régulière et traitement des moquettes."
+              "description": "Service d'entretien pour les moquettes et tapis."
             },
             "ar": {
               "name": "صيانة السجاد",
-              "description": "خدمة الصيانة المنتظمة ومعالجة السجاد."
+              "description": "خدمة صيانة وتنظيف السجاد والموكيت."
             },
             "zh": {
-              "name": "地毯维护",
-              "description": "地毯的定期维护和处理服务。"
+              "name": "地毯保养",
+              "description": "为地毯和地垫提供的保养和清洁服务。"
             },
             "eng": {
               "name": "Carpet Maintenance",
-              "description": "Regular maintenance service and treatment for carpets."
+              "description": "Maintenance and cleaning service for carpets and rugs."
             }
           },
-          "picture": "assets/images/cleaning_carpet_maintenance.png"
+          "picture": "assets/images/maintenance_carpet.png"
         },
         {
           "translations": {
             "fr": {
               "name": "Nettoyage de tapis",
-              "description": "Service spécialisé pour le nettoyage en profondeur des tapis."
+              "description": "Service de nettoyage pour les tapis de toutes tailles et matériaux."
             },
             "ar": {
-              "name": "تنظيف السجاد الصغير",
-              "description": "خدمة متخصصة للتنظيف العميق للسجاد الصغير."
+              "name": "تنظيف السجاد",
+              "description": "خدمة تنظيف للسجاد من جميع الأنواع والأحجام."
             },
             "zh": {
-              "name": "地毯深度清洁",
-              "description": "地毯深度清洁的专业服务。"
+              "name": "地毯清洁",
+              "description": "为各种类型和尺寸的地毯提供的清洁服务。"
             },
             "eng": {
               "name": "Rug Cleaning",
-              "description": "Specialized service for deep cleaning of rugs."
+              "description": "Cleaning service for rugs of all sizes and materials."
             }
           },
           "picture": "assets/images/cleaning_rug.png"
@@ -475,19 +475,19 @@
           "translations": {
             "fr": {
               "name": "Nettoyage de canapés",
-              "description": "Service de nettoyage professionnel pour tous types de canapés et fauteuils."
+              "description": "Service de nettoyage pour les canapés, fauteuils et autres meubles rembourrés."
             },
             "ar": {
               "name": "تنظيف الأرائك",
-              "description": "خدمة تنظيف احترافية لجميع أنواع الأرائك والكراسي."
+              "description": "خدمة تنظيف للأرائك والكراسي والمفروشات المبطنة."
             },
             "zh": {
               "name": "沙发清洁",
-              "description": "各类沙发和扶手椅的专业清洁服务。"
+              "description": "为沙发、椅子和其他软垫家具提供的清洁服务。"
             },
             "eng": {
               "name": "Sofa Cleaning",
-              "description": "Professional cleaning service for all types of sofas and armchairs."
+              "description": "Cleaning service for sofas, armchairs, and other upholstered furniture."
             }
           },
           "picture": "assets/images/cleaning_sofa.png"
@@ -496,40 +496,40 @@
           "translations": {
             "fr": {
               "name": "Nettoyage des chaises",
-              "description": "Service de nettoyage spécialisé pour chaises et sièges de tous types."
+              "description": "Service de nettoyage pour les chaises, y compris les chaises de bureau et de salon."
             },
             "ar": {
               "name": "تنظيف الكراسي",
-              "description": "خدمة تنظيف متخصصة للكراسي والمقاعد من جميع الأنواع."
+              "description": "خدمة تنظيف للكراسي بما في ذلك كراسي المكاتب والصالونات."
             },
             "zh": {
               "name": "椅子清洁",
-              "description": "各类椅子和座椅的专业清洁服务。"
+              "description": "为各种类型的椅子提供的清洁服务，包括办公室椅和客厅椅。"
             },
             "eng": {
               "name": "Chair Cleaning",
-              "description": "Specialized cleaning service for chairs and seats of all types."
+              "description": "Cleaning service for chairs, including office and lounge chairs."
             }
           },
-          "picture": "assets/images/cleaning_chair.png"
+          "picture": "assets/images/cleaning_chairs.png"
         },
         {
           "translations": {
             "fr": {
               "name": "Nettoyage et dégraissage des hottes",
-              "description": "Service de nettoyage professionnel pour systèmes d'extraction de cuisine."
+              "description": "Service de nettoyage et dégraissage des hottes de cuisine."
             },
             "ar": {
-              "name": "تنظيف وإزالة الشحوم من أغطية المطبخ",
-              "description": "خدمة تنظيف احترافية لأنظمة استخراج المطبخ."
+              "name": "تنظيف وتزييت المداخن",
+              "description": "خدمة تنظيف وتزييت المداخن في المطابخ."
             },
             "zh": {
-              "name": "油烟机清洁和除油",
-              "description": "厨房排气系统的专业清洁服务。"
+              "name": "抽油烟机清洁与去油",
+              "description": "为厨房抽油烟机提供的清洁与去油服务。"
             },
             "eng": {
               "name": "Hood Cleaning and Degreasing",
-              "description": "Professional cleaning service for kitchen extraction systems."
+              "description": "Cleaning and degreasing service for kitchen hoods."
             }
           },
           "picture": "assets/images/cleaning_hood.png"
@@ -537,44 +537,2400 @@
         {
           "translations": {
             "fr": {
-              "name": "L'assainissement",
-              "description": "Services de désinfection et assainissement pour tous types d'espaces."
+              "name": "Traitement des piscines",
+              "description": "Service de traitement et entretien des piscines, incluant la gestion des produits chimiques et l'entretien de l'eau."
             },
             "ar": {
-              "name": "التطهير",
-              "description": "خدمات التعقيم والتطهير لجميع أنواع المساحات."
+              "name": "معالجة المسابح",
+              "description": "خدمة معالجة وصيانة المسابح، بما في ذلك إدارة المواد الكيميائية وصيانة المياه."
             },
             "zh": {
-              "name": "消毒服务",
-              "description": "各类空间的消毒和卫生处理服务。"
+              "name": "泳池处理",
+              "description": "为泳池提供的处理和维护服务，包括化学品管理和水质维护。"
             },
             "eng": {
-              "name": "Sanitation",
-              "description": "Disinfection and sanitation services for all types of spaces."
+              "name": "Pool Treatment",
+              "description": "Pool treatment and maintenance service, including chemical management and water care."
             }
           },
-          "picture": "assets/images/cleaning_sanitation.png"
+          "picture": "assets/images/pool_treatment.png"
+        }
+      ]
+    },
+    {
+      "key": "categoryJardinage",
+      "translations": {
+        "fr": "Jardinage",
+        "ar": "البستنة",
+        "zh": "园艺",
+        "eng": "Gardening"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Décoration jardin",
+              "description": "Service de décoration pour l'aménagement de jardins."
+            },
+            "ar": {
+              "name": "زينة الحديقة",
+              "description": "خدمة تزيين الحدائق لتصميم المساحات الخارجية."
+            },
+            "zh": {
+              "name": "花园装饰",
+              "description": "为花园设计提供装饰服务。"
+            },
+            "eng": {
+              "name": "Garden Decoration",
+              "description": "Decoration service for garden landscaping."
+            }
+          },
+          "picture": "assets/images/garden_decoration.png"
         },
         {
           "translations": {
             "fr": {
-              "name": "Traitement des piscines",
-              "description": "Service d'entretien et de traitement pour piscines et bassins."
+              "name": "Clôtures jardin aménagement paysage",
+              "description": "Installation de clôtures pour l'aménagement paysager de jardins."
             },
             "ar": {
-              "name": "معالجة حمامات السباحة",
-              "description": "خدمة صيانة ومعالجة لحمامات السباحة والأحواض."
+              "name": "أسوار الحديقة وتنسيق الحدائق",
+              "description": "تركيب الأسوار لتنسيق الحدائق."
             },
             "zh": {
-              "name": "游泳池处理",
-              "description": "游泳池和水池的维护和处理服务。"
+              "name": "花园围栏和景观设计",
+              "description": "为花园提供围栏和景观设计的安装服务。"
             },
             "eng": {
-              "name": "Pool Treatment",
-              "description": "Maintenance and treatment service for swimming pools and basins."
+              "name": "Garden Fencing & Landscaping",
+              "description": "Fence installation for garden landscaping."
             }
           },
-          "picture": "assets/images/cleaning_pool.png"
+          "picture": "assets/images/garden_fencing.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Création jardins",
+              "description": "Conception et création de jardins personnalisés."
+            },
+            "ar": {
+              "name": "إنشاء الحدائق",
+              "description": "تصميم وإنشاء حدائق مخصصة."
+            },
+            "zh": {
+              "name": "花园创建",
+              "description": "为客户设计和创建个性化花园。"
+            },
+            "eng": {
+              "name": "Garden Creation",
+              "description": "Designing and creating customized gardens."
+            }
+          },
+          "picture": "assets/images/garden_creation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Création scènes d'eau",
+              "description": "Création de scènes aquatiques et d'aménagements paysagers avec de l'eau."
+            },
+            "ar": {
+              "name": "إنشاء مشاهد مائية",
+              "description": "تصميم مشاهد مائية وتنسيقات الحدائق باستخدام الماء."
+            },
+            "zh": {
+              "name": "水景设计",
+              "description": "设计水景和使用水的景观装置。"
+            },
+            "eng": {
+              "name": "Water Features Creation",
+              "description": "Designing water features and landscaping with water."
+            }
+          },
+          "picture": "assets/images/water_features.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Élagage des arbres",
+              "description": "Service d'élagage pour entretenir les arbres."
+            },
+            "ar": {
+              "name": "تشذيب الأشجار",
+              "description": "خدمة تقليم الأشجار للحفاظ عليها."
+            },
+            "zh": {
+              "name": "树木修剪",
+              "description": "为树木提供修剪和护理服务。"
+            },
+            "eng": {
+              "name": "Tree Pruning",
+              "description": "Tree pruning service for maintenance."
+            }
+          },
+          "picture": "assets/images/tree_pruning.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Élagage des palmiers",
+              "description": "Service d'élagage spécifique pour les palmiers."
+            },
+            "ar": {
+              "name": "تشذيب أشجار النخيل",
+              "description": "خدمة تقليم أشجار النخيل."
+            },
+            "zh": {
+              "name": "棕榈树修剪",
+              "description": "专门为棕榈树提供的修剪服务。"
+            },
+            "eng": {
+              "name": "Palm Tree Pruning",
+              "description": "Pruning service specifically for palm trees."
+            }
+          },
+          "picture": "assets/images/palm_pruning.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Entretien des jardins",
+              "description": "Services d'entretien régulier des jardins."
+            },
+            "ar": {
+              "name": "صيانة الحدائق",
+              "description": "خدمات الصيانة الدورية للحدائق."
+            },
+            "zh": {
+              "name": "花园维护",
+              "description": "定期花园维护服务。"
+            },
+            "eng": {
+              "name": "Garden Maintenance",
+              "description": "Regular maintenance services for gardens."
+            }
+          },
+          "picture": "assets/images/garden_maintenance.png"
+        },
+        {
+          "translations": {
+        "fr": {
+          "name": "Entretien espaces verts",
+          "description": "Services d'entretien des espaces verts, y compris la tonte, le désherbage et la taille."
+        },
+        "ar": {
+          "name": "صيانة المساحات الخضراء",
+          "description": "خدمات صيانة المساحات الخضراء بما في ذلك القص وإزالة الأعشاب الضارة والتقليم."
+        },
+        "zh": {
+          "name": "绿地维护",
+          "description": "绿地维护服务，包括修剪、除草和修整。"
+        },
+        "eng": {
+          "name": "Green Space Maintenance",
+          "description": "Maintenance services for green spaces including mowing, weeding, and pruning."
+        }
+      },
+      "picture": "assets/images/green_space_maintenance.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Evacuation déchets",
+            "description": "Service d'évacuation des déchets de jardin, y compris les déchets verts et autres résidus."
+          },
+          "ar": {
+            "name": "إخلاء النفايات",
+            "description": "خدمة إخلاء نفايات الحدائق بما في ذلك النفايات النباتية وبقية المخلفات."
+          },
+          "zh": {
+            "name": "废物清理",
+            "description": "花园废物清理服务，包括绿化废料和其他残余物。"
+          },
+          "eng": {
+            "name": "Waste Removal",
+            "description": "Garden waste removal service, including green waste and other debris."
+          }
+        },
+        "picture": "assets/images/waste_removal.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Gazon synthétique naturel",
+            "description": "Installation de gazon synthétique imitant parfaitement le gazon naturel."
+          },
+          "ar": {
+            "name": "عشب صناعي طبيعي",
+            "description": "تركيب العشب الصناعي الذي يحاكي العشب الطبيعي بشكل كامل."
+          },
+          "zh": {
+            "name": "人工草坪",
+            "description": "安装完美模仿天然草坪的人工草坪。"
+          },
+          "eng": {
+            "name": "Artificial Natural Turf",
+            "description": "Installation of artificial turf that perfectly mimics natural grass."
+          }
+        },
+        "picture": "assets/images/artificial_turf.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Arrosage automatique",
+            "description": "Système d'arrosage automatique pour maintenir les espaces verts en bonne santé."
+          },
+          "ar": {
+            "name": "الري التلقائي",
+            "description": "نظام ري تلقائي للحفاظ على المساحات الخضراء بصحة جيدة."
+          },
+          "zh": {
+            "name": "自动灌溉",
+            "description": "自动灌溉系统，保持绿地健康。"
+          },
+          "eng": {
+            "name": "Automatic Irrigation",
+            "description": "Automatic irrigation system to keep green spaces healthy."
+          }
+        },
+        "picture": "assets/images/automatic_irrigation.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Pépinière de jardin",
+            "description": "Vente de plantes et accessoires pour le jardinage."
+          },
+          "ar": {
+            "name": "مشاتل الحدائق",
+            "description": "بيع النباتات والملحقات للزراعة."
+          },
+          "zh": {
+            "name": "园艺苗圃",
+            "description": "销售园艺植物和配件。"
+          },
+          "eng": {
+            "name": "Garden Nursery",
+            "description": "Sale of plants and gardening accessories."
+          }
+        },
+        "picture": "assets/images/garden_nursery.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Rénovation des espaces verts",
+            "description": "Rénovation et réaménagement des espaces verts existants."
+          },
+          "ar": {
+            "name": "تجديد المساحات الخضراء",
+            "description": "تجديد وإعادة تصميم المساحات الخضراء الموجودة."
+          },
+          "zh": {
+            "name": "绿地翻新",
+            "description": "翻新和重新设计现有的绿地。"
+          },
+          "eng": {
+            "name": "Green Space Renovation",
+            "description": "Renovation and redesign of existing green spaces."
+          }
+        },
+        "picture": "assets/images/green_space_renovation.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Traitement phytosanitaire de jardin",
+            "description": "Traitement des plantes contre les maladies et les parasites."
+          },
+          "ar": {
+            "name": "معالجة النباتات ضد الآفات والأمراض",
+            "description": "علاج النباتات ضد الأمراض والطفيليات."
+          },
+          "zh": {
+            "name": "园艺植物防治",
+            "description": "防治植物病虫害。"
+          },
+          "eng": {
+            "name": "Phytosanitary Treatment",
+            "description": "Treatment of plants against diseases and pests."
+          }
+        },
+        "picture": "assets/images/phytosanitary_treatment.png"
+        }
+      ]
+    },
+    {
+    "key": "categoryClimatisation",
+      "translations": {
+        "fr": "Climatisation",
+        "ar": "تكييف الهواء",
+        "zh": "空调",
+        "eng": "Air Conditioning"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Centrale de traitement d’air",
+              "description": "Installation et entretien des centrales de traitement d’air pour une meilleure qualité de l’air."
+            },
+            "ar": {
+              "name": "وحدة معالجة الهواء",
+              "description": "تركيب وصيانة وحدات معالجة الهواء لتحسين جودة الهواء."
+            },
+            "zh": {
+              "name": "空气处理机组",
+              "description": "安装和维护空气处理机组以改善空气质量。"
+            },
+            "eng": {
+              "name": "Air Handling Unit (AHU)",
+              "description": "Installation and maintenance of air handling units to improve air quality."
+            }
+          },
+          "picture": "assets/images/air_handling_unit.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Climatisation appartement",
+              "description": "Solutions de climatisation adaptées aux appartements."
+            },
+            "ar": {
+              "name": "تكييف الشقق",
+              "description": "حلول تكييف مخصصة للشقق السكنية."
+            },
+            "zh": {
+              "name": "公寓空调",
+              "description": "为公寓提供的空调解决方案。"
+            },
+            "eng": {
+              "name": "Apartment Air Conditioning",
+              "description": "Air conditioning solutions for residential apartments."
+            }
+          },
+          "picture": "assets/images/apartment_ac.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Climatisation de bureaux",
+              "description": "Installation de systèmes de climatisation pour les environnements de bureau."
+            },
+            "ar": {
+              "name": "تكييف المكاتب",
+              "description": "تركيب أنظمة تكييف للمكاتب."
+            },
+            "zh": {
+              "name": "办公室空调",
+              "description": "办公室空调系统安装服务。"
+            },
+            "eng": {
+              "name": "Office Air Conditioning",
+              "description": "Installation of air conditioning systems for office environments."
+            }
+          },
+          "picture": "assets/images/office_ac.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Climatisation et ventilation",
+              "description": "Solutions combinées de climatisation et de ventilation pour un confort optimal."
+            },
+            "ar": {
+              "name": "التكييف والتهوية",
+              "description": "حلول مدمجة للتكييف والتهوية من أجل راحة مثالية."
+            },
+            "zh": {
+              "name": "空调与通风",
+              "description": "结合空调和通风的综合解决方案，提供最佳舒适度。"
+            },
+            "eng": {
+              "name": "Air Conditioning and Ventilation",
+              "description": "Integrated solutions for air conditioning and ventilation to ensure optimal comfort."
+            }
+          },
+          "picture": "assets/images/ac_ventilation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Climatiseur Split",
+              "description": "Installation de climatiseurs Split pour des pièces individuelles ou multiples."
+            },
+            "ar": {
+              "name": "مكيف سبليت",
+              "description": "تركيب مكيفات سبليت لغرف مفردة أو متعددة."
+            },
+            "zh": {
+              "name": "分体式空调",
+              "description": "为单个或多个房间安装分体式空调。"
+            },
+            "eng": {
+              "name": "Split Air Conditioner",
+              "description": "Installation of split air conditioners for single or multiple rooms."
+            }
+          },
+          "picture": "assets/images/split_ac.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Entreprise installation climatisation",
+              "description": "Services professionnels pour l’installation de systèmes de climatisation."
+            },
+            "ar": {
+              "name": "شركة تركيب التكييف",
+              "description": "خدمات تركيب احترافية لأنظمة التكييف."
+            },
+            "zh": {
+              "name": "空调安装公司",
+              "description": "提供专业空调系统安装服务。"
+            },
+            "eng": {
+              "name": "Air Conditioning Installation Company",
+              "description": "Professional services for installing air conditioning systems."
+            }
+          },
+          "picture": "assets/images/ac_installation_company.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Froid et climatisation pour le transport",
+              "description": "Solutions de réfrigération et de climatisation pour les véhicules de transport."
+            },
+            "ar": {
+              "name": "التبريد والتكييف للنقل",
+              "description": "حلول تبريد وتكييف للمركبات الخاصة بالنقل."
+            },
+            "zh": {
+              "name": "运输冷藏与空调",
+              "description": "为运输车辆提供冷藏和空调解决方案。"
+            },
+            "eng": {
+              "name": "Transport Refrigeration and Air Conditioning",
+              "description": "Cooling and air conditioning solutions for transport vehicles."
+            }
+          },
+          "picture": "assets/images/transport_ac.png"
+        },
+        {
+        "translations": {
+          "fr": {
+            "name": "Froid industriel",
+            "description": "Solutions de refroidissement industriel pour divers secteurs."
+          },
+          "ar": {
+            "name": "التبريد الصناعي",
+            "description": "حلول التبريد الصناعي لمختلف القطاعات."
+          },
+          "zh": {
+            "name": "工业制冷",
+            "description": "为各行业提供工业制冷解决方案。"
+          },
+          "eng": {
+            "name": "Industrial Cooling",
+            "description": "Industrial cooling solutions for various sectors."
+          }
+        },
+        "picture": "assets/images/industrial_cooling.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Installation de chambres froides",
+            "description": "Installation de chambres froides pour conserver les produits périssables."
+          },
+          "ar": {
+            "name": "تركيب غرف التبريد",
+            "description": "تركيب غرف تبريد لحفظ المنتجات القابلة للتلف."
+          },
+          "zh": {
+            "name": "冷藏室安装",
+            "description": "安装冷藏室以存放易腐产品。"
+          },
+          "eng": {
+            "name": "Cold Room Installation",
+            "description": "Installation of cold rooms to preserve perishable goods."
+          }
+        },
+        "picture": "assets/images/cold_room_installation.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Installation de climatisation",
+            "description": "Service complet d’installation de systèmes de climatisation."
+          },
+          "ar": {
+            "name": "تركيب أنظمة التكييف",
+            "description": "خدمة متكاملة لتركيب أنظمة التكييف."
+          },
+          "zh": {
+            "name": "空调安装",
+            "description": "提供全面的空调系统安装服务。"
+          },
+          "eng": {
+            "name": "Air Conditioning Installation",
+            "description": "Complete air conditioning system installation service."
+          }
+        },
+        "picture": "assets/images/ac_installation.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Installation dépannage climatisation",
+            "description": "Installation et dépannage rapide des systèmes de climatisation."
+          },
+          "ar": {
+            "name": "تركيب وصيانة التكييف",
+            "description": "تركيب وصيانة سريعة لأنظمة التكييف."
+          },
+          "zh": {
+            "name": "空调安装与维修",
+            "description": "快速安装和维修空调系统。"
+          },
+          "eng": {
+            "name": "AC Installation & Repair",
+            "description": "Quick installation and troubleshooting of AC systems."
+          }
+        },
+        "picture": "assets/images/ac_repair.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Installation maintenance climatisation",
+            "description": "Installation et maintenance régulière des systèmes de climatisation."
+          },
+          "ar": {
+            "name": "تركيب وصيانة أجهزة التكييف",
+            "description": "تركيب وصيانة منتظمة لأنظمة التكييف."
+          },
+          "zh": {
+            "name": "空调安装与保养",
+            "description": "空调系统的安装和定期维护服务。"
+          },
+          "eng": {
+            "name": "AC Installation & Maintenance",
+            "description": "Installation and regular maintenance of AC systems."
+          }
+        },
+        "picture": "assets/images/ac_maintenance.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Isolation acoustique",
+            "description": "Solutions d’isolation acoustique pour réduire les nuisances sonores."
+          },
+          "ar": {
+            "name": "العزل الصوتي",
+            "description": "حلول عزل صوتي لتقليل الضوضاء."
+          },
+          "zh": {
+            "name": "隔音处理",
+            "description": "用于减少噪音的隔音解决方案。"
+          },
+          "eng": {
+            "name": "Acoustic Insulation",
+            "description": "Soundproofing solutions to reduce noise pollution."
+          }
+        },
+        "picture": "assets/images/acoustic_insulation.png"
+      },
+      {
+        "translations": {
+          "fr": {
+            "name": "Isolation frigorifique",
+            "description": "Isolation thermique pour les installations de froid industriel."
+          },
+          "ar": {
+            "name": "العزل الحراري للتبريد",
+            "description": "عزل حراري لتجهيزات التبريد الصناعي."
+          },
+          "zh": {
+            "name": "冷藏隔热",
+            "description": "用于工业制冷设备的隔热材料。"
+          },
+          "eng": {
+            "name": "Refrigeration Insulation",
+            "description": "Thermal insulation for industrial refrigeration setups."
+          }
+        },
+        "picture": "assets/images/refrigeration_insulation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Isolation industrielle",
+              "description": "Solutions d’isolation pour environnements industriels."
+            },
+            "ar": {
+              "name": "العزل الصناعي",
+              "description": "حلول عزل للبيئات الصناعية."
+            },
+            "zh": {
+              "name": "工业隔热",
+              "description": "为工业环境提供的隔热解决方案。"
+            },
+            "eng": {
+              "name": "Industrial Insulation",
+              "description": "Insulation solutions for industrial environments."
+            }
+          },
+          "picture": "assets/images/industrial_insulation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Isolation thermique",
+              "description": "Réduction des pertes de chaleur grâce à l’isolation thermique."
+            },
+            "ar": {
+              "name": "العزل الحراري",
+              "description": "تقليل فقدان الحرارة من خلال العزل الحراري."
+            },
+            "zh": {
+              "name": "热绝缘",
+              "description": "通过热绝缘减少热量损失。"
+            },
+            "eng": {
+              "name": "Thermal Insulation",
+              "description": "Reducing heat loss with thermal insulation."
+            }
+          },
+          "picture": "assets/images/thermal_insulation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Maintenance et entretien",
+              "description": "Services réguliers de maintenance pour vos installations CVC."
+            },
+            "ar": {
+              "name": "الصيانة والخدمة",
+              "description": "خدمات صيانة منتظمة لمنشآت التدفئة والتهوية والتكييف."
+            },
+            "zh": {
+              "name": "维护与保养",
+              "description": "对暖通空调系统进行定期维护服务。"
+            },
+            "eng": {
+              "name": "Maintenance and Servicing",
+              "description": "Regular maintenance services for HVAC systems."
+            }
+          },
+          "picture": "assets/images/maintenance_service.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Maintenance et réparation frigorifique",
+              "description": "Entretien et réparation de systèmes de réfrigération."
+            },
+            "ar": {
+              "name": "صيانة وإصلاح التبريد",
+              "description": "صيانة وإصلاح أنظمة التبريد."
+            },
+            "zh": {
+              "name": "制冷系统维护与修理",
+              "description": "制冷设备的维修与保养服务。"
+            },
+            "eng": {
+              "name": "Refrigeration Maintenance and Repair",
+              "description": "Maintenance and repair of refrigeration systems."
+            }
+          },
+          "picture": "assets/images/refrigeration_maintenance.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Pompe à chaleur et climatiseur",
+              "description": "Installation et entretien de pompes à chaleur et climatiseurs."
+            },
+            "ar": {
+              "name": "مضخة حرارية ومكيف هواء",
+              "description": "تركيب وصيانة مضخات الحرارة وأجهزة التكييف."
+            },
+            "zh": {
+              "name": "热泵与空调",
+              "description": "热泵和空调的安装与维护服务。"
+            },
+            "eng": {
+              "name": "Heat Pump and Air Conditioner",
+              "description": "Installation and maintenance of heat pumps and air conditioners."
+            }
+          },
+          "picture": "assets/images/heat_pump_ac.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Ventilation mécanique",
+              "description": "Installation de systèmes de ventilation mécanique pour une meilleure qualité d’air."
+            },
+            "ar": {
+              "name": "التهوية الميكانيكية",
+              "description": "تركيب أنظمة التهوية الميكانيكية لتحسين جودة الهواء."
+            },
+            "zh": {
+              "name": "机械通风",
+              "description": "安装机械通风系统以提升空气质量。"
+            },
+            "eng": {
+              "name": "Mechanical Ventilation",
+              "description": "Installation of mechanical ventilation systems for better air quality."
+            }
+          },
+          "picture": "assets/images/mechanical_ventilation.png"
+        }
+      ]
+    },
+    {
+    "key": "categorySurveillance",
+      "translations": {
+        "fr": "Surveillance",
+        "ar": "المراقبة",
+        "zh": "监控",
+        "eng": "Surveillance"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Caméras de surveillance",
+              "description": "Installation de caméras pour surveiller et sécuriser les lieux."
+            },
+            "ar": {
+              "name": "كاميرات المراقبة",
+              "description": "تركيب كاميرات لمراقبة وتأمين الأماكن."
+            },
+            "zh": {
+              "name": "监控摄像头",
+              "description": "安装摄像头以监控和保护场所。"
+            },
+            "eng": {
+              "name": "Surveillance Cameras",
+              "description": "Installation of cameras to monitor and secure locations."
+            }
+          },
+          "picture": "assets/images/surveillance_cameras.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Contrôle d'accès",
+              "description": "Systèmes permettant de gérer l'accès aux bâtiments."
+            },
+            "ar": {
+              "name": "أنظمة الدخول",
+              "description": "أنظمة للتحكم في الدخول إلى المباني."
+            },
+            "zh": {
+              "name": "门禁系统",
+              "description": "用于控制建筑物访问的系统。"
+            },
+            "eng": {
+              "name": "Access Control",
+              "description": "Systems for managing building access."
+            }
+          },
+          "picture": "assets/images/access_control.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte automatique",
+              "description": "Installation de portes automatiques pour plus de confort et sécurité."
+            },
+            "ar": {
+              "name": "باب أوتوماتيكي",
+              "description": "تركيب أبواب أوتوماتيكية لراحة وأمان أكبر."
+            },
+            "zh": {
+              "name": "自动门",
+              "description": "安装自动门以提升舒适性与安全性。"
+            },
+            "eng": {
+              "name": "Automatic Door",
+              "description": "Installation of automatic doors for enhanced comfort and security."
+            }
+          },
+          "picture": "assets/images/automatic_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte blindée",
+              "description": "Installation de portes blindées pour une sécurité renforcée."
+            },
+            "ar": {
+              "name": "باب مصفّح",
+              "description": "تركيب أبواب مصفّحة لتعزيز الأمان."
+            },
+            "zh": {
+              "name": "防盗门",
+              "description": "安装防盗门以提升安全防护。"
+            },
+            "eng": {
+              "name": "Security Door",
+              "description": "Installation of armored doors for enhanced protection."
+            }
+          },
+          "picture": "assets/images/security_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte coulissante",
+              "description": "Systèmes de portes coulissantes pour une ouverture fluide et moderne."
+            },
+            "ar": {
+              "name": "باب منزلق",
+              "description": "أنظمة أبواب منزلقة لفتح سلس وعصري."
+            },
+            "zh": {
+              "name": "滑动门",
+              "description": "现代化滑动门系统，开关顺畅。"
+            },
+            "eng": {
+              "name": "Sliding Door",
+              "description": "Sliding door systems for smooth and modern access."
+            }
+          },
+          "picture": "assets/images/sliding_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte domotique",
+              "description": "Portes connectées intégrées dans les systèmes de maison intelligente."
+            },
+            "ar": {
+              "name": "باب ذكي",
+              "description": "أبواب متصلة ضمن أنظمة المنزل الذكي."
+            },
+            "zh": {
+              "name": "智能门",
+              "description": "智能家居系统中的联网门控。"
+            },
+            "eng": {
+              "name": "Smart Door",
+              "description": "Connected doors integrated with smart home systems."
+            }
+          },
+          "picture": "assets/images/smart_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte de garage domotique",
+              "description": "Automatisation et contrôle à distance des portes de garage."
+            },
+            "ar": {
+              "name": "باب مرآب ذكي",
+              "description": "أتمتة وتحكم عن بعد لأبواب المرآب."
+            },
+            "zh": {
+              "name": "智能车库门",
+              "description": "可远程控制的自动车库门。"
+            },
+            "eng": {
+              "name": "Smart Garage Door",
+              "description": "Automated and remotely controlled garage doors."
+            }
+          },
+          "picture": "assets/images/smart_garage_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte rapide",
+              "description": "Portes à ouverture rapide pour un accès efficace aux zones sensibles."
+            },
+            "ar": {
+              "name": "باب سريع",
+              "description": "أبواب سريعة الفتح للوصول الفعّال إلى المناطق الحساسة."
+            },
+            "zh": {
+              "name": "快速门",
+              "description": "快速开启的门，用于高效进入关键区域。"
+            },
+            "eng": {
+              "name": "Rapid Door",
+              "description": "Fast-opening doors for efficient access to sensitive areas."
+            }
+          },
+          "picture": "assets/images/rapid_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte sectionnelle industrielle",
+              "description": "Portes conçues pour les environnements industriels exigeants."
+            },
+            "ar": {
+              "name": "باب مقطعي صناعي",
+              "description": "أبواب مخصصة للبيئات الصناعية الصعبة."
+            },
+            "zh": {
+              "name": "工业分段门",
+              "description": "为苛刻工业环境设计的门。"
+            },
+            "eng": {
+              "name": "Industrial Sectional Door",
+              "description": "Doors designed for demanding industrial environments."
+            }
+          },
+          "picture": "assets/images/industrial_sectional_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Porte sectionnelle résidentielle",
+              "description": "Solutions de portes pour les résidences modernes."
+            },
+            "ar": {
+              "name": "باب مقطعي سكني",
+              "description": "حلول أبواب للمنازل الحديثة."
+            },
+            "zh": {
+              "name": "住宅分段门",
+              "description": "现代住宅门解决方案。"
+            },
+            "eng": {
+              "name": "Residential Sectional Door",
+              "description": "Door solutions for modern residential use."
+            }
+          },
+          "picture": "assets/images/residential_sectional_door.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Portes battantes",
+              "description": "Portes traditionnelles s’ouvrant vers l’intérieur ou l’extérieur."
+            },
+            "ar": {
+              "name": "أبواب مفصلية",
+              "description": "أبواب تقليدية تُفتح للداخل أو الخارج."
+            },
+            "zh": {
+              "name": "平开门",
+              "description": "向内或向外开启的传统门。"
+            },
+            "eng": {
+              "name": "Swing Doors",
+              "description": "Traditional doors opening inward or outward."
+            }
+          },
+          "picture": "assets/images/swing_doors.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Surveillance rénovation",
+              "description": "Mise à jour des systèmes de surveillance existants."
+            },
+            "ar": {
+              "name": "تجديد أنظمة المراقبة",
+              "description": "تحديث أنظمة المراقبة الحالية."
+            },
+            "zh": {
+              "name": "监控系统翻新",
+              "description": "升级现有监控系统。"
+            },
+            "eng": {
+              "name": "Surveillance Renovation",
+              "description": "Upgrading existing surveillance systems."
+            }
+          },
+          "picture": "assets/images/surveillance_renovation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Système d'alarme",
+              "description": "Installation de systèmes d'alarme pour la sécurité."
+            },
+            "ar": {
+              "name": "نظام إنذار",
+              "description": "تركيب أنظمة إنذار للحماية."
+            },
+            "zh": {
+              "name": "警报系统",
+              "description": "安装安全警报系统。"
+            },
+            "eng": {
+              "name": "Alarm System",
+              "description": "Installation of alarm systems for security."
+            }
+          },
+          "picture": "assets/images/alarm_system.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Système de pointage",
+              "description": "Systèmes de gestion des présences et d’accès au personnel."
+            },
+            "ar": {
+              "name": "نظام البصمة",
+              "description": "أنظمة لإدارة الحضور والدخول للموظفين."
+            },
+            "zh": {
+              "name": "打卡系统",
+              "description": "用于员工出勤与访问管理的系统。"
+            },
+            "eng": {
+              "name": "Time Attendance System",
+              "description": "Systems for managing staff attendance and access."
+            }
+          },
+          "picture": "assets/images/time_attendance_system.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Système incendie anti-intrusion",
+              "description": "Systèmes combinant la détection d'incendie et la protection contre les intrusions."
+            },
+            "ar": {
+              "name": "نظام الحريق ومكافحة التسلل",
+              "description": "أنظمة تجمع بين كشف الحريق والحماية من التسلل."
+            },
+            "zh": {
+              "name": "防火防入侵系统",
+              "description": "结合火灾探测与防入侵的系统。"
+            },
+            "eng": {
+              "name": "Fire and Intrusion System",
+              "description": "Systems combining fire detection and intrusion protection."
+            }
+          },
+          "picture": "assets/images/fire_intrusion_system.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Système Antivol",
+              "description": "Dispositifs conçus pour prévenir le vol et alerter en cas d'intrusion."
+            },
+            "ar": {
+              "name": "نظام مضاد للسرقة",
+              "description": "أنظمة تهدف إلى منع السرقة والتنبيه عند حدوث اختراق."
+            },
+            "zh": {
+              "name": "防盗系统",
+              "description": "用于防止盗窃并在入侵时发出警报的设备。"
+            },
+            "eng": {
+              "name": "Anti-Theft System",
+              "description": "Devices designed to prevent theft and alert in case of intrusion."
+            }
+          },
+          "picture": "assets/images/anti_theft_system.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Système de télésurveillance",
+              "description": "Surveillance à distance en temps réel via caméras et capteurs connectés."
+            },
+            "ar": {
+              "name": "نظام المراقبة عن بعد",
+              "description": "مراقبة عن بُعد في الوقت الحقيقي عبر الكاميرات وأجهزة الاستشعار المتصلة."
+            },
+            "zh": {
+              "name": "远程监控系统",
+              "description": "通过联网摄像头和传感器进行实时远程监控。"
+            },
+            "eng": {
+              "name": "Remote Monitoring System",
+              "description": "Real-time remote monitoring via connected cameras and sensors."
+            }
+          },
+          "picture": "assets/images/remote_monitoring_system.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Volet roulant La domotique",
+              "description": "Intégration des volets roulants dans les systèmes de domotique pour un contrôle intelligent."
+            },
+            "ar": {
+              "name": "الستائر الذكية",
+              "description": "دمج الستائر الدوارة في أنظمة المنزل الذكي للتحكم الآلي."
+            },
+            "zh": {
+              "name": "智能卷帘系统",
+              "description": "将卷帘系统集成进智能家居控制系统中。"
+            },
+            "eng": {
+              "name": "Smart Roller Shutters",
+              "description": "Integration of roller shutters with home automation systems for smart control."
+            }
+          },
+          "picture": "assets/images/smart_roller_shutters.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Volets roulants",
+              "description": "Installation de volets roulants pour sécurité et confort thermique."
+            },
+            "ar": {
+              "name": "الستائر الدوارة",
+              "description": "تركيب الستائر الدوارة للحماية والراحة الحرارية."
+            },
+            "zh": {
+              "name": "卷帘门",
+              "description": "安装卷帘以提升安全性和隔热性。"
+            },
+            "eng": {
+              "name": "Roller Shutters",
+              "description": "Installation of roller shutters for security and thermal comfort."
+            }
+          },
+          "picture": "assets/images/roller_shutters.png"
+        }
+      ]
+    },
+    {
+      "key": "categoryGardiennage",
+      "translations": {
+        "fr": "Gardiennage",
+        "ar": "الحراسة",
+        "zh": "安保服务",
+        "eng": "Guarding"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Agent Covid-19",
+              "description": "Agent chargé de veiller au respect des mesures sanitaires."
+            },
+            "ar": {
+              "name": "عميل كوفيد-19",
+              "description": "عميل مسؤول عن تطبيق تدابير السلامة الصحية."
+            },
+            "zh": {
+              "name": "新冠防疫员",
+              "description": "负责监督卫生措施的工作人员。"
+            },
+            "eng": {
+              "name": "Covid-19 Officer",
+              "description": "Agent responsible for enforcing health safety measures."
+            }
+          },
+          "picture": "assets/images/covid_officer.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Agent de sécurité",
+              "description": "Personnel de sécurité pour la protection des biens et des personnes."
+            },
+            "ar": {
+              "name": "عنصر أمن",
+              "description": "أفراد أمن لحماية الممتلكات والأشخاص."
+            },
+            "zh": {
+              "name": "安保人员",
+              "description": "保护人员和财产的安全人员。"
+            },
+            "eng": {
+              "name": "Security Guard",
+              "description": "Security personnel for property and personal protection."
+            }
+          },
+          "picture": "assets/images/security_guard.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Chauffeur privé",
+              "description": "Conducteur professionnel pour déplacements privés ou professionnels."
+            },
+            "ar": {
+              "name": "سائق خاص",
+              "description": "سائق محترف للتنقلات الخاصة أو الرسمية."
+            },
+            "zh": {
+              "name": "私人司机",
+              "description": "为私人或商务出行提供服务的专业司机。"
+            },
+            "eng": {
+              "name": "Private Driver",
+              "description": "Professional driver for private or corporate transport."
+            }
+          },
+          "picture": "assets/images/private_driver.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Maître-chien",
+              "description": "Agent de sécurité avec chien pour patrouille et intervention."
+            },
+            "ar": {
+              "name": "مدرب كلاب الحراسة",
+              "description": "عنصر أمن مع كلب للقيام بالدوريات والتدخل."
+            },
+            "zh": {
+              "name": "护卫犬警卫",
+              "description": "配备警犬的安保人员，用于巡逻和干预。"
+            },
+            "eng": {
+              "name": "Dog Handler",
+              "description": "Security agent with a trained dog for patrol and intervention."
+            }
+          },
+          "picture": "assets/images/dog_handler.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Sécurité des évènements",
+              "description": "Gestion de la sécurité pendant les événements publics ou privés."
+            },
+            "ar": {
+              "name": "أمن الفعاليات",
+              "description": "تأمين الفعاليات العامة أو الخاصة."
+            },
+            "zh": {
+              "name": "活动安保",
+              "description": "负责公共或私人活动的安全管理。"
+            },
+            "eng": {
+              "name": "Event Security",
+              "description": "Security management for public or private events."
+            }
+          },
+          "picture": "assets/images/event_security.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Sécurité rapprochée",
+              "description": "Protection personnelle rapprochée pour VIP ou personnes exposées."
+            },
+            "ar": {
+              "name": "حماية شخصية",
+              "description": "حماية خاصة للأشخاص المهمين أو المعرضين للخطر."
+            },
+            "zh": {
+              "name": "贴身安保",
+              "description": "为重要人物或高风险人员提供的近身保护。"
+            },
+            "eng": {
+              "name": "Close Protection",
+              "description": "Personal close protection for VIPs or high-risk individuals."
+            }
+          },
+          "picture": "assets/images/close_protection.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Solution de sécurité",
+              "description": "Solutions globales de sécurité pour entreprises ou résidences."
+            },
+            "ar": {
+              "name": "حلول أمنية",
+              "description": "حلول أمنية شاملة للمؤسسات أو المساكن."
+            },
+            "zh": {
+              "name": "安全解决方案",
+              "description": "为企业或住宅提供全面的安保解决方案。"
+            },
+            "eng": {
+              "name": "Security Solution",
+              "description": "Comprehensive security solutions for businesses or homes."
+            }
+          },
+          "picture": "assets/images/security_solution.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Télésurveillance",
+              "description": "Surveillance à distance pour assurer la sécurité 24/7."
+            },
+            "ar": {
+              "name": "المراقبة عن بُعد",
+              "description": "مراقبة مستمرة عن بعد لضمان الأمان على مدار الساعة."
+            },
+            "zh": {
+              "name": "远程安防监控",
+              "description": "全天候远程监控以保障安全。"
+            },
+            "eng": {
+              "name": "Remote Surveillance",
+              "description": "24/7 remote monitoring to ensure ongoing security."
+            }
+          },
+          "picture": "assets/images/remote_surveillance.png"
+        }
+      ]
+    },
+    {
+      "key": "categoryElectricite",
+      "translations": {
+        "fr": "Électricité",
+        "ar": "الكهرباء",
+        "zh": "电力服务",
+        "eng": "Electricity"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Scintillement de l'éclairage",
+              "description": "Résolution des problèmes de clignotement des lumières."
+            },
+            "ar": {
+              "name": "وميض الإضاءة",
+              "description": "حل مشاكل وميض المصابيح الكهربائية."
+            },
+            "zh": {
+              "name": "灯光闪烁问题",
+              "description": "解决灯光闪烁的电气问题。"
+            },
+            "eng": {
+              "name": "Lighting Flicker",
+              "description": "Fixing flickering light issues."
+            }
+          },
+          "picture": "assets/images/lighting_flicker.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Bris de matériel électrique",
+              "description": "Réparation ou remplacement de matériel électrique endommagé."
+            },
+            "ar": {
+              "name": "كسر في المعدات الكهربائية",
+              "description": "إصلاح أو استبدال المعدات الكهربائية التالفة."
+            },
+            "zh": {
+              "name": "电气设备损坏",
+              "description": "维修或更换损坏的电气设备。"
+            },
+            "eng": {
+              "name": "Electrical Equipment Damage",
+              "description": "Repair or replacement of damaged electrical equipment."
+            }
+          },
+          "picture": "assets/images/equipment_damage.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Cause et conséquence court-circuit",
+              "description": "Analyse des courts-circuits et réparation des dommages."
+            },
+            "ar": {
+              "name": "أسباب ونتائج القصر الكهربائي",
+              "description": "تحليل القصر الكهربائي وإصلاح الأعطال الناتجة عنه."
+            },
+            "zh": {
+              "name": "短路原因与后果",
+              "description": "分析短路问题并修复由此造成的损坏。"
+            },
+            "eng": {
+              "name": "Short Circuit Analysis",
+              "description": "Analyzing short circuits and repairing related issues."
+            }
+          },
+          "picture": "assets/images/short_circuit.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Coupures et baisses de tension",
+              "description": "Traitement des coupures de courant et des variations de tension."
+            },
+            "ar": {
+              "name": "انقطاعات وانخفاضات الجهد",
+              "description": "حل مشكلات انقطاع الكهرباء وتذبذب الجهد الكهربائي."
+            },
+            "zh": {
+              "name": "电压波动与断电",
+              "description": "处理电压下降和电力中断的问题。"
+            },
+            "eng": {
+              "name": "Voltage Drops and Outages",
+              "description": "Handling power cuts and voltage fluctuations."
+            }
+          },
+          "picture": "assets/images/voltage_drop.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Dépannage électrique",
+              "description": "Intervention rapide pour tout type de panne électrique."
+            },
+            "ar": {
+              "name": "إصلاح أعطال كهربائية",
+              "description": "تدخل سريع لحل جميع الأعطال الكهربائية."
+            },
+            "zh": {
+              "name": "电力故障维修",
+              "description": "快速处理各类电力故障。"
+            },
+            "eng": {
+              "name": "Electrical Troubleshooting",
+              "description": "Quick intervention for all kinds of electrical failures."
+            }
+          },
+          "picture": "assets/images/electrical_troubleshooting.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Électricité bâtiment",
+              "description": "Installation et maintenance électrique dans les bâtiments résidentiels."
+            },
+            "ar": {
+              "name": "كهرباء المباني",
+              "description": "تركيب وصيانة الأنظمة الكهربائية في المباني السكنية."
+            },
+            "zh": {
+              "name": "建筑电气",
+              "description": "住宅建筑的电气安装与维护服务。"
+            },
+            "eng": {
+              "name": "Building Electricity",
+              "description": "Electrical installation and maintenance for buildings."
+            }
+          },
+          "picture": "assets/images/building_electricity.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Électricité industrielle",
+              "description": "Solutions électriques pour les installations industrielles."
+            },
+            "ar": {
+              "name": "الكهرباء الصناعية",
+              "description": "حلول كهربائية للمنشآت الصناعية."
+            },
+            "zh": {
+              "name": "工业电气",
+              "description": "工业设施的电气解决方案。"
+            },
+            "eng": {
+              "name": "Industrial Electricity",
+              "description": "Electrical solutions for industrial facilities."
+            }
+          },
+          "picture": "assets/images/industrial_electricity.png"
+        },
+        {
+      "translations": {
+            "fr": {
+              "name": "Électricité moyenne et basse tension",
+              "description": "Installation et maintenance de systèmes électriques à moyenne et basse tension."
+            },
+            "ar": {
+              "name": "الكهرباء المتوسطة والمنخفضة الجهد",
+              "description": "تركيب وصيانة الأنظمة الكهربائية ذات الجهد المتوسط والمنخفض."
+            },
+            "zh": {
+              "name": "中低压电力系统",
+              "description": "中低压电力系统的安装和维护。"
+            },
+            "eng": {
+              "name": "Medium and Low Voltage Electricity",
+              "description": "Installation and maintenance of medium and low voltage electrical systems."
+            }
+          },
+          "picture": "assets/images/medium_low_voltage.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Entrée électrique",
+              "description": "Installation et configuration des points d’entrée d’électricité dans les bâtiments."
+            },
+            "ar": {
+              "name": "مدخل كهربائي",
+              "description": "تركيب وتكوين نقاط الدخول الكهربائي في المباني."
+            },
+            "zh": {
+              "name": "电力接入",
+              "description": "安装和配置建筑物的电力接入点。"
+            },
+            "eng": {
+              "name": "Electrical Entry",
+              "description": "Installation and setup of electrical entry points in buildings."
+            }
+          },
+          "picture": "assets/images/electrical_entry.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Entrée électrique temporaire",
+              "description": "Fourniture temporaire d’électricité pour chantiers ou événements."
+            },
+            "ar": {
+              "name": "مدخل كهربائي مؤقت",
+              "description": "توفير كهرباء مؤقتة للمواقع أو الفعاليات."
+            },
+            "zh": {
+              "name": "临时电力接入",
+              "description": "为工地或活动提供临时电力供应。"
+            },
+            "eng": {
+              "name": "Temporary Electrical Entry",
+              "description": "Temporary power supply for construction sites or events."
+            }
+          },
+          "picture": "assets/images/temporary_entry.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Inspection et vérification électrique",
+              "description": "Contrôle de conformité et de sécurité des installations électriques."
+            },
+            "ar": {
+              "name": "فحص وتفتيش كهربائي",
+              "description": "مراقبة التوصيلات الكهربائية لضمان الأمان والمطابقة."
+            },
+            "zh": {
+              "name": "电气检查和验证",
+              "description": "检查电气设施的合规性和安全性。"
+            },
+            "eng": {
+              "name": "Electrical Inspection and Verification",
+              "description": "Compliance and safety checks for electrical installations."
+            }
+          },
+          "picture": "assets/images/electrical_inspection.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Maintenance électrique",
+              "description": "Entretien régulier et préventif des systèmes électriques."
+            },
+            "ar": {
+              "name": "الصيانة الكهربائية",
+              "description": "صيانة دورية ووقائية للأنظمة الكهربائية."
+            },
+            "zh": {
+              "name": "电力维护",
+              "description": "电气系统的定期维护和预防性维护。"
+            },
+            "eng": {
+              "name": "Electrical Maintenance",
+              "description": "Regular and preventive maintenance of electrical systems."
+            }
+          },
+          "picture": "assets/images/electrical_maintenance.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Mauvais fonctionnement électrique",
+              "description": "Diagnostic et résolution des dysfonctionnements électriques."
+            },
+            "ar": {
+              "name": "خلل في النظام الكهربائي",
+              "description": "تشخيص وحل الأعطال الكهربائية."
+            },
+            "zh": {
+              "name": "电气故障",
+              "description": "诊断和解决电气系统故障。"
+            },
+            "eng": {
+              "name": "Electrical Malfunction",
+              "description": "Diagnosing and resolving electrical system malfunctions."
+            }
+          },
+          "picture": "assets/images/electrical_malfunction.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Réparation électrique après sinistre",
+              "description": "Travaux de remise en état électrique après incendie ou inondation."
+            },
+            "ar": {
+              "name": "إصلاح كهربائي بعد الكوارث",
+              "description": "إصلاح الأنظمة الكهربائية بعد الحوادث أو الكوارث."
+            },
+            "zh": {
+              "name": "灾后电力修复",
+              "description": "在火灾或洪水后进行的电力修复工作。"
+            },
+            "eng": {
+              "name": "Post-Disaster Electrical Repair",
+              "description": "Electrical restoration work after fire or flooding incidents."
+            }
+          },
+          "picture": "assets/images/post_disaster_repair.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Résolution de trouble électrique",
+              "description": "Interventions pour résoudre rapidement les problèmes électriques."
+            },
+            "ar": {
+              "name": "حل المشاكل الكهربائية",
+              "description": "تدخلات سريعة لحل الأعطال الكهربائية."
+            },
+            "zh": {
+              "name": "电力问题处理",
+              "description": "快速解决电气问题。"
+            },
+            "eng": {
+              "name": "Electrical Trouble Resolution",
+              "description": "Quick interventions to resolve electrical issues."
+            }
+          },
+          "picture": "assets/images/trouble_resolution.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Rétablir le courant de façon sécuritaire",
+              "description": "Restauration du courant en toute sécurité après une coupure."
+            },
+            "ar": {
+              "name": "استعادة التيار بأمان",
+              "description": "إعادة التيار الكهربائي بعد انقطاع بطريقة آمنة."
+            },
+            "zh": {
+              "name": "安全恢复供电",
+              "description": "在停电后安全恢复电力。"
+            },
+            "eng": {
+              "name": "Safe Power Restoration",
+              "description": "Safely restoring power after an outage."
+            }
+          },
+          "picture": "assets/images/power_restoration.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Surchauffe électrique",
+              "description": "Diagnostic et correction des problèmes de surchauffe dans les circuits."
+            },
+            "ar": {
+              "name": "ارتفاع حرارة النظام الكهربائي",
+              "description": "تشخيص وتصحيح مشاكل ارتفاع الحرارة في الدوائر الكهربائية."
+            },
+            "zh": {
+              "name": "电路过热",
+              "description": "诊断并修复电路过热问题。"
+            },
+            "eng": {
+              "name": "Electrical Overheating",
+              "description": "Diagnosing and fixing overheating issues in circuits."
+            }
+          },
+          "picture": "assets/images/electrical_overheating.png"
+        }
+      ]
+    },
+    {
+      "key": "categoryComptabilite",
+      "translations": {
+        "fr": "Comptabilité",
+        "ar": "المحاسبة",
+        "zh": "会计",
+        "eng": "Accounting"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Conseil et stratégie",
+              "description": "Conseil stratégique en matière de comptabilité et gestion financière."
+            },
+            "ar": {
+              "name": "الاستشارات والاستراتيجيات",
+              "description": "استشارات استراتيجية في المحاسبة والإدارة المالية."
+            },
+            "zh": {
+              "name": "咨询与战略",
+              "description": "提供会计和财务管理方面的战略咨询服务。"
+            },
+            "eng": {
+              "name": "Consulting and Strategy",
+              "description": "Strategic consulting in accounting and financial management."
+            }
+          },
+          "picture": "assets/images/consulting_strategy.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Conseil fiscal",
+              "description": "Conseil sur les questions fiscales pour les entreprises."
+            },
+            "ar": {
+              "name": "الاستشارات الضريبية",
+              "description": "استشارات ضريبية للشركات."
+            },
+            "zh": {
+              "name": "税务咨询",
+              "description": "为企业提供税务咨询服务。"
+            },
+            "eng": {
+              "name": "Tax Consulting",
+              "description": "Consulting on tax matters for businesses."
+            }
+          },
+          "picture": "assets/images/tax_consulting.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Création d'entreprise",
+              "description": "Accompagnement pour la création d'une entreprise."
+            },
+            "ar": {
+              "name": "تأسيس الشركات",
+              "description": "مساعدة في إنشاء الشركات."
+            },
+            "zh": {
+              "name": "公司创办",
+              "description": "协助企业创建和注册。"
+            },
+            "eng": {
+              "name": "Business Formation",
+              "description": "Assistance with business creation and registration."
+            }
+          },
+          "picture": "assets/images/business_creation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Domiciliation entreprises",
+              "description": "Services de domiciliation pour entreprises et sociétés."
+            },
+            "ar": {
+              "name": "تأسيس الشركات",
+              "description": "خدمات تأسيس الشركات والمكاتب للشركات."
+            },
+            "zh": {
+              "name": "公司注册地址服务",
+              "description": "为企业和公司提供注册地址服务。"
+            },
+            "eng": {
+              "name": "Business Address Service",
+              "description": "Business and company domiciliation services."
+            }
+          },
+          "picture": "assets/images/business_domiciliation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Fiscalité et comptabilité",
+              "description": "Gestion de la fiscalité et des obligations comptables pour les entreprises."
+            },
+            "ar": {
+              "name": "الضرائب والمحاسبة",
+              "description": "إدارة الضرائب والالتزامات المحاسبية للشركات."
+            },
+            "zh": {
+              "name": "税务与会计",
+              "description": "为企业管理税务和会计义务。"
+            },
+            "eng": {
+              "name": "Taxation and Accounting",
+              "description": "Managing taxation and accounting obligations for businesses."
+            }
+          },
+          "picture": "assets/images/tax_accounting.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Formation comptabilité fiscalité",
+              "description": "Formation spécialisée en comptabilité et fiscalité pour professionnels."
+            },
+            "ar": {
+              "name": "تدريب في المحاسبة والضرائب",
+              "description": "تدريب متخصص في المحاسبة والضرائب للمحترفين."
+            },
+            "zh": {
+              "name": "会计税务培训",
+              "description": "为专业人士提供会计和税务方面的培训。"
+            },
+            "eng": {
+              "name": "Accounting and Taxation Training",
+              "description": "Specialized training in accounting and taxation for professionals."
+            }
+          },
+          "picture": "assets/images/accounting_tax_training.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Juridiques des entreprises",
+              "description": "Conseil juridique pour la gestion des aspects juridiques des entreprises."
+            },
+            "ar": {
+              "name": "الاستشارات القانونية للشركات",
+              "description": "استشارات قانونية حول الجوانب القانونية للشركات."
+            },
+            "zh": {
+              "name": "企业法律咨询",
+              "description": "为企业管理法律事务提供咨询服务。"
+            },
+            "eng": {
+              "name": "Business Legal Services",
+              "description": "Legal consulting for managing business legal aspects."
+            }
+          },
+          "picture": "assets/images/business_legal.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "La gestion de la paie",
+              "description": "Gestion complète des salaires et des déclarations fiscales liées."
+            },
+            "ar": {
+              "name": "إدارة الرواتب",
+              "description": "إدارة الرواتب الشاملة والإقرارات الضريبية المرتبطة بها."
+            },
+            "zh": {
+              "name": "工资管理",
+              "description": "全面的工资管理和相关税务申报。"
+            },
+            "eng": {
+              "name": "Payroll Management",
+              "description": "Complete payroll management and related tax filings."
+            }
+          },
+          "picture": "assets/images/payroll_management.png"
+        }
+      ]
+    },
+    {
+    "key": "categorySerrurier",
+      "translations": {
+        "fr": "Serrurier",
+        "ar": "الحداد",
+        "zh": "锁匠",
+        "eng": "Locksmith"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Ouverture de porte urgente",
+              "description": "Intervention rapide pour l'ouverture de porte en cas d'urgence."
+            },
+            "ar": {
+              "name": "فتح الباب العاجل",
+              "description": "تدخل سريع لفتح الأبواب في حالات الطوارئ."
+            },
+            "zh": {
+              "name": "紧急开门",
+              "description": "在紧急情况下快速开门服务。"
+            },
+            "eng": {
+              "name": "Urgent Door Opening",
+              "description": "Rapid intervention for opening doors in emergencies."
+            }
+          },
+          "picture": "assets/images/urgent_door_opening.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Ouverture de porte blindée",
+              "description": "Service d'ouverture de portes blindées en cas de perte de clé ou dysfonctionnement."
+            },
+            "ar": {
+              "name": "فتح الباب المقوى",
+              "description": "خدمة فتح الأبواب المقواة في حالة فقدان المفتاح أو العطل."
+            },
+            "zh": {
+              "name": "防盗门开锁",
+              "description": "在钥匙丢失或故障情况下提供防盗门开锁服务。"
+            },
+            "eng": {
+              "name": "Opening of Armored Door",
+              "description": "Service to open armored doors in case of key loss or malfunction."
+            }
+          },
+          "picture": "assets/images/armored_door_opening.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Installation poignée blindée",
+              "description": "Installation de poignées blindées pour sécuriser les portes."
+            },
+            "ar": {
+              "name": "تركيب مقبض محصن",
+              "description": "تركيب مقبض محصن لتأمين الأبواب."
+            },
+            "zh": {
+              "name": "防盗把手安装",
+              "description": "安装防盗把手以加强门的安全性。"
+            },
+            "eng": {
+              "name": "Installation of Armored Handle",
+              "description": "Installing armored handles to secure doors."
+            }
+          },
+          "picture": "assets/images/armored_handle_installation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Installation serrure multipoints",
+              "description": "Installation de serrures multipoints pour une sécurité renforcée."
+            },
+            "ar": {
+              "name": "تركيب قفل متعدد النقاط",
+              "description": "تركيب أقفال متعددة النقاط لتعزيز الأمان."
+            },
+            "zh": {
+              "name": "多点锁安装",
+              "description": "安装多点锁以增强安全性。"
+            },
+            "eng": {
+              "name": "Installation of Multipoint Lock",
+              "description": "Installing multipoint locks for enhanced security."
+            }
+          },
+          "picture": "assets/images/multipoint_lock_installation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Installation serrure carénée",
+              "description": "Installation de serrures carénées pour une meilleure protection."
+            },
+            "ar": {
+              "name": "تركيب قفل مغلف",
+              "description": "تركيب أقفال مغلفة لتوفير حماية أفضل."
+            },
+            "zh": {
+              "name": "外壳锁安装",
+              "description": "安装外壳锁以提供更好的保护。"
+            },
+            "eng": {
+              "name": "Installation of Cased Lock",
+              "description": "Installing cased locks for better protection."
+            }
+          },
+          "picture": "assets/images/cased_lock_installation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Installation cornière anti-pince",
+              "description": "Installation de cornières anti-pince pour protéger les serrures."
+            },
+            "ar": {
+              "name": "تركيب زاوية مقاومة للقرص",
+              "description": "تركيب زوايا مقاومة للقرص لحماية الأقفال."
+            },
+            "zh": {
+              "name": "防夹角安装",
+              "description": "安装防夹角角钢以保护锁具。"
+            },
+            "eng": {
+              "name": "Installation of Anti-Grip Corner",
+              "description": "Installing anti-grip corner plates to protect locks."
+            }
+          },
+          "picture": "assets/images/anti_grip_corner_installation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Serrure de haute sécurité",
+              "description": "Installation de serrures de haute sécurité pour une protection maximale."
+            },
+            "ar": {
+              "name": "قفل عالي الأمان",
+              "description": "تركيب أقفال عالية الأمان لتوفير حماية قصوى."
+            },
+            "zh": {
+              "name": "高安全锁安装",
+              "description": "安装高安全锁以提供最大保护。"
+            },
+            "eng": {
+              "name": "High Security Lock",
+              "description": "Installing high security locks for maximum protection."
+            }
+          },
+          "picture": "assets/images/high_security_lock.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Rideaux et grilles métalliques",
+              "description": "Installation de rideaux et grilles métalliques pour la sécurité des magasins."
+            },
+            "ar": {
+              "name": "ستائر وشبكات معدنية",
+              "description": "تركيب ستائر وشبكات معدنية لتأمين المتاجر."
+            },
+            "zh": {
+              "name": "金属窗帘和栅栏安装",
+              "description": "为商店安装金属窗帘和栅栏。"
+            },
+            "eng": {
+              "name": "Metal Curtains and Grilles",
+              "description": "Installing metal curtains and grilles for store security."
+            }
+          },
+          "picture": "assets/images/metal_curtaind_grilles.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Portes blindées",
+              "description": "Installation de portes blindées pour une sécurité renforcée."
+            },
+            "ar": {
+              "name": "أبواب مقاومة للرصاص",
+              "description": "تركيب أبواب مقاومة للرصاص لتعزيز الأمان."
+            },
+            "zh": {
+              "name": "防盗门安装",
+              "description": "安装防盗门以加强安全性。"
+            },
+            "eng": {
+              "name": "Armored Doors",
+              "description": "Installing armored doors for enhanced security."
+            }
+          },
+          "picture": "assets/images/armored_doors.png"
+        }
+      ]
+    },
+    {
+      "key": "categoryAntiNuisible",
+      "translations": {
+        "fr": "Anti Nuisible",
+        "ar": "مكافحة الآفات",
+        "zh": "害虫防治",
+        "eng": "Pest Control"
+      },
+      "subServices": [
+        {
+          "translations": {
+            "fr": {
+              "name": "Dératisation",
+              "description": "Service de lutte contre les rats et les souris."
+            },
+            "ar": {
+              "name": "مكافحة القوارض",
+              "description": "خدمة مكافحة الفئران والجرذان."
+            },
+            "zh": {
+              "name": "鼠害控制",
+              "description": "老鼠和老鼠的控制服务。"
+            },
+            "eng": {
+              "name": "Rodent Control",
+              "description": "Rodent control services for rats and mice."
+            }
+          },
+          "picture": "assets/images/rodent_control.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Désinsectisation",
+              "description": "Service de lutte contre les insectes nuisibles."
+            },
+            "ar": {
+              "name": "مكافحة الحشرات",
+              "description": "خدمة مكافحة الحشرات الضارة."
+            },
+            "zh": {
+              "name": "灭虫服务",
+              "description": "害虫控制服务。"
+            },
+            "eng": {
+              "name": "Insect Control",
+              "description": "Insect pest control services."
+            }
+          },
+          "picture": "assets/images/insect_control.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Désinfection",
+              "description": "Services de désinfection pour éliminer les germes et bactéries."
+            },
+            "ar": {
+              "name": "التعقيم",
+              "description": "خدمات التعقيم للقضاء على الجراثيم والبكتيريا."
+            },
+            "zh": {
+              "name": "消毒服务",
+              "description": "消除细菌和病菌的消毒服务。"
+            },
+            "eng": {
+              "name": "Disinfection",
+              "description": "Disinfection services to eliminate germs and bacteria."
+            }
+          },
+          "picture": "assets/images/disinfection.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti souris et rats",
+              "description": "Services de lutte contre les souris et les rats."
+            },
+            "ar": {
+              "name": "مكافحة الفئران والجرذان",
+              "description": "خدمات مكافحة الفئران والجرذان."
+            },
+            "zh": {
+              "name": "防老鼠",
+              "description": "老鼠和大鼠的防治服务。"
+            },
+            "eng": {
+              "name": "Anti Mice and Rats",
+              "description": "Control services for mice and rats."
+            }
+          },
+          "picture": "assets/images/anti_mice_rats.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti cafards et blattes",
+              "description": "Services de lutte contre les cafards et blattes."
+            },
+            "ar": {
+              "name": "مكافحة الصراصير",
+              "description": "خدمات مكافحة الصراصير."
+            },
+            "zh": {
+              "name": "防蟑螂",
+              "description": "防治蟑螂和臭虫服务。"
+            },
+            "eng": {
+              "name": "Anti Cockroaches and Bugs",
+              "description": "Services to control cockroaches and bugs."
+            }
+          },
+          "picture": "assets/images/anti_cockroaches.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti fourmis",
+              "description": "Services de lutte contre les fourmis."
+            },
+            "ar": {
+              "name": "مكافحة النمل",
+              "description": "خدمات مكافحة النمل."
+            },
+            "zh": {
+              "name": "防蚂蚁",
+              "description": "防止蚂蚁的服务。"
+            },
+            "eng": {
+              "name": "Anti Ants",
+              "description": "Ant control services."
+            }
+          },
+          "picture": "assets/images/anti_ants.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti puces",
+              "description": "Services de lutte contre les puces."
+            },
+            "ar": {
+              "name": "مكافحة البراغيث",
+              "description": "خدمات مكافحة البراغيث."
+            },
+            "zh": {
+              "name": "防跳蚤",
+              "description": "防止跳蚤的服务。"
+            },
+            "eng": {
+              "name": "Anti Fleas",
+              "description": "Flea control services."
+            }
+          },
+          "picture": "assets/images/anti_fleas.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti punaises de lit",
+              "description": "Services de lutte contre les punaises de lit."
+            },
+            "ar": {
+              "name": "مكافحة بق الفراش",
+              "description": "خدمات مكافحة بق الفراش."
+            },
+            "zh": {
+              "name": "防床虱",
+              "description": "防治床虱的服务。"
+            },
+            "eng": {
+              "name": "Anti Bed Bugs",
+              "description": "Bed bug control services."
+            }
+          },
+          "picture": "assets/images/anti_bed_bugs.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti mouches",
+              "description": "Services de lutte contre les mouches."
+            },
+            "ar": {
+              "name": "مكافحة الذباب",
+              "description": "خدمات مكافحة الذباب."
+            },
+            "zh": {
+              "name": "防苍蝇",
+              "description": "防治苍蝇的服务。"
+            },
+            "eng": {
+              "name": "Anti Flies",
+              "description": "Fly control services."
+            }
+          },
+          "picture": "assets/images/anti_flies.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti moustiques",
+              "description": "Services de lutte contre les moustiques."
+            },
+            "ar": {
+              "name": "مكافحة البعوض",
+              "description": "خدمات مكافحة البعوض."
+            },
+            "zh": {
+              "name": "防蚊子",
+              "description": "防治蚊子的服务。"
+            },
+            "eng": {
+              "name": "Anti Mosquitoes",
+              "description": "Mosquito control services."
+            }
+          },
+          "picture": "assets/images/anti_mosquitoes.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti scorpion",
+              "description": "Services de lutte contre les scorpions."
+            },
+            "ar": {
+              "name": "مكافحة العقارب",
+              "description": "خدمات مكافحة العقارب."
+            },
+            "zh": {
+              "name": "防蝎子",
+              "description": "防治蝎子的服务。"
+            },
+            "eng": {
+              "name": "Anti Scorpions",
+              "description": "Scorpion control services."
+            }
+          },
+          "picture": "assets/images/anti_scorpions.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti serpent",
+              "description": "Services de lutte contre les serpents."
+            },
+            "ar": {
+              "name": "مكافحة الثعابين",
+              "description": "خدمات مكافحة الثعابين."
+            },
+            "zh": {
+              "name": "防蛇",
+              "description": "防治蛇类的服务。"
+            },
+            "eng": {
+              "name": "Anti Snakes",
+              "description": "Snake control services."
+            }
+          },
+          "picture": "assets/images/anti_snakes.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti pigeon",
+              "description": "Services de lutte contre les pigeons."
+            },
+            "ar": {
+              "name": "مكافحة الحمام",
+              "description": "خدمات مكافحة الحمام."
+            },
+            "zh": {
+              "name": "防鸽子",
+              "description": "防治鸽子的服务。"
+            },
+            "eng": {
+              "name": "Anti Pigeons",
+              "description": "Pigeon control services."
+            }
+          },
+          "picture": "assets/images/anti_pigeons.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Anti insectes",
+              "description": "Services de lutte contre les insectes en général."
+            },
+            "ar": {
+              "name": "مكافحة الحشرات",
+              "description": "خدمات مكافحة الحشرات بشكل عام."
+            },
+            "zh": {
+              "name": "防止昆虫",
+              "description": "一般害虫控制服务。"
+            },
+            "eng": {
+              "name": "Anti Insects",
+              "description": "General insect control services."
+            }
+          },
+          "picture": "assets/images/anti_insects.png"
         }
       ]
     }
