@@ -33,118 +33,548 @@
         {
           "translations": {
             "fr": {
-              "name": "Nettoyage résidentiel",
-              "description": "Nettoyage complet pour les maisons et appartements."
+              "name": "Femme de ménage",
+              "description": "Service de personnel de nettoyage pour tous types d'espaces."
             },
             "ar": {
-              "name": "تنظيف المنازل",
-              "description": "تنظيف شامل للمنازل والشقق."
+              "name": "عاملة تنظيف",
+              "description": "خدمة عاملات التنظيف لجميع أنواع المساحات."
             },
             "zh": {
-              "name": "住宅清洁",
-              "description": "为住宅和公寓提供全面清洁服务。"
+              "name": "家政服务",
+              "description": "为各类空间提供的家政清洁服务。"
             },
             "eng": {
-              "name": "Residential Cleaning",
-              "description": "Full-service cleaning for homes and apartments."
+              "name": "Housekeeping",
+              "description": "Cleaning staff service for all types of spaces."
             }
           },
-          "picture": "assets/images/cleaning_home.png"
+          "picture": "assets/images/cleaning_housekeeping.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de fin de chantier",
+              "description": "Service de nettoyage complet après achèvement des travaux."
+            },
+            "ar": {
+              "name": "تنظيف نهاية المشروع",
+              "description": "خدمة تنظيف شاملة بعد انتهاء أعمال البناء."
+            },
+            "zh": {
+              "name": "施工后清洁",
+              "description": "施工完成后的全面清洁服务。"
+            },
+            "eng": {
+              "name": "End of Construction Cleaning",
+              "description": "Complete cleaning service after completion of construction work."
+            }
+          },
+          "picture": "assets/images/cleaning_end_construction.png"
         },
         {
           "translations": {
             "fr": {
               "name": "Nettoyage après travaux",
-              "description": "Nettoyage en profondeur après rénovation ou construction."
+              "description": "Nettoyage spécialisé suite à des travaux de rénovation."
             },
             "ar": {
-              "name": "تنظيف بعد البناء",
-              "description": "تنظيف شامل بعد أعمال البناء أو الترميم."
+              "name": "تنظيف بعد أعمال البناء",
+              "description": "تنظيف متخصص بعد أعمال التجديد."
             },
             "zh": {
               "name": "装修后清洁",
-              "description": "装修或施工后的深度清洁服务。"
+              "description": "装修工程后的专业清洁服务。"
             },
             "eng": {
               "name": "Post-Construction Cleaning",
-              "description": "Deep cleaning after renovation or construction work."
+              "description": "Specialized cleaning following renovation work."
             }
           },
           "picture": "assets/images/cleaning_post_construction.png"
-        }
-      ]
-    },
-    {
-      "key": "categoryElectricity",
-      "translations": {
-        "fr": "Électricité",
-        "ar": "كهرباء",
-        "zh": "电力",
-        "eng": "Electricity"
-      },
-      "subServices": [
-        {
-          "translations": {
-            "fr": {
-              "name": "Nettoyage de bureau",
-              "description": "Service de nettoyage pour les espaces de bureau."
-            },
-            "ar": {
-              "name": "تنظيف المكاتب",
-              "description": "خدمة تنظيف مخصصة للمكاتب."
-            },
-            "zh": {
-              "name": "办公室清洁",
-              "description": "为办公室提供的清洁服务。"
-            },
-            "eng": {
-              "name": "Office Cleaning",
-              "description": "Cleaning service for office spaces."
-            }
-          },
-          "picture": "assets/images/cleaning_office.png"
         },
         {
           "translations": {
             "fr": {
-              "name": "Nettoyage résidentiel",
-              "description": "Nettoyage complet pour les maisons et appartements."
+              "name": "Nettoyage de locaux",
+              "description": "Service de nettoyage pour tous types de locaux commerciaux."
+            },
+            "ar": {
+              "name": "تنظيف المباني التجارية",
+              "description": "خدمة تنظيف لجميع أنواع المباني التجارية."
+            },
+            "zh": {
+              "name": "商业场所清洁",
+              "description": "各类商业场所的清洁服务。"
+            },
+            "eng": {
+              "name": "Commercial Premises Cleaning",
+              "description": "Cleaning service for all types of commercial premises."
+            }
+          },
+          "picture": "assets/images/cleaning_commercial.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage des maisons",
+              "description": "Service de nettoyage complet pour maisons individuelles."
             },
             "ar": {
               "name": "تنظيف المنازل",
-              "description": "تنظيف شامل للمنازل والشقق."
+              "description": "خدمة تنظيف شاملة للمنازل الفردية."
             },
             "zh": {
               "name": "住宅清洁",
-              "description": "为住宅和公寓提供全面清洁服务。"
+              "description": "独栋住宅的全面清洁服务。"
             },
             "eng": {
-              "name": "Residential Cleaning",
-              "description": "Full-service cleaning for homes and apartments."
+              "name": "House Cleaning",
+              "description": "Complete cleaning service for individual houses."
             }
           },
-          "picture": "assets/images/cleaning_home.png"
+          "picture": "assets/images/cleaning_house.png"
         },
         {
           "translations": {
             "fr": {
-              "name": "Nettoyage après travaux",
-              "description": "Nettoyage en profondeur après rénovation ou construction."
+              "name": "Nettoyage appartements",
+              "description": "Service de nettoyage adapté aux espaces d'appartements."
             },
             "ar": {
-              "name": "تنظيف بعد البناء",
-              "description": "تنظيف شامل بعد أعمال البناء أو الترميم."
+              "name": "تنظيف الشقق",
+              "description": "خدمة تنظيف مخصصة لمساحات الشقق."
             },
             "zh": {
-              "name": "装修后清洁",
-              "description": "装修或施工后的深度清洁服务。"
+              "name": "公寓清洁",
+              "description": "专为公寓空间设计的清洁服务。"
             },
             "eng": {
-              "name": "Post-Construction Cleaning",
-              "description": "Deep cleaning after renovation or construction work."
+              "name": "Apartment Cleaning",
+              "description": "Cleaning service tailored for apartment spaces."
             }
           },
-          "picture": "assets/images/cleaning_post_construction.png"
+          "picture": "assets/images/cleaning_apartment.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de villas",
+              "description": "Service de nettoyage premium pour villas et grandes résidences."
+            },
+            "ar": {
+              "name": "تنظيف الفلل",
+              "description": "خدمة تنظيف ممتازة للفلل والمساكن الكبيرة."
+            },
+            "zh": {
+              "name": "别墅清洁",
+              "description": "别墅和大型住宅的高级清洁服务。"
+            },
+            "eng": {
+              "name": "Villa Cleaning",
+              "description": "Premium cleaning service for villas and large residences."
+            }
+          },
+          "picture": "assets/images/cleaning_villa.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage immeubles et résidences",
+              "description": "Service de nettoyage pour les espaces communs des immeubles résidentiels."
+            },
+            "ar": {
+              "name": "تنظيف المباني والمجمعات السكنية",
+              "description": "خدمة تنظيف للمساحات المشتركة في المباني السكنية."
+            },
+            "zh": {
+              "name": "公寓楼和住宅区清洁",
+              "description": "住宅楼公共区域的清洁服务。"
+            },
+            "eng": {
+              "name": "Building and Residence Cleaning",
+              "description": "Cleaning service for common areas of residential buildings."
+            }
+          },
+          "picture": "assets/images/cleaning_building.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage hôtels",
+              "description": "Services de nettoyage spécialisés pour le secteur hôtelier."
+            },
+            "ar": {
+              "name": "تنظيف الفنادق",
+              "description": "خدمات تنظيف متخصصة لقطاع الفنادق."
+            },
+            "zh": {
+              "name": "酒店清洁",
+              "description": "酒店行业的专业清洁服务。"
+            },
+            "eng": {
+              "name": "Hotel Cleaning",
+              "description": "Specialized cleaning services for the hotel sector."
+            }
+          },
+          "picture": "assets/images/cleaning_hotel.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de restaurants",
+              "description": "Nettoyage professionnel pour établissements de restauration."
+            },
+            "ar": {
+              "name": "تنظيف المطاعم",
+              "description": "تنظيف احترافي لمؤسسات تقديم الطعام."
+            },
+            "zh": {
+              "name": "餐厅清洁",
+              "description": "餐饮场所的专业清洁服务。"
+            },
+            "eng": {
+              "name": "Restaurant Cleaning",
+              "description": "Professional cleaning for food service establishments."
+            }
+          },
+          "picture": "assets/images/cleaning_restaurant.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de vitres",
+              "description": "Service spécialisé pour le nettoyage de toutes surfaces vitrées."
+            },
+            "ar": {
+              "name": "تنظيف النوافذ",
+              "description": "خدمة متخصصة لتنظيف جميع الأسطح الزجاجية."
+            },
+            "zh": {
+              "name": "窗户清洁",
+              "description": "各类玻璃表面的专业清洁服务。"
+            },
+            "eng": {
+              "name": "Window Cleaning",
+              "description": "Specialized service for cleaning all glass surfaces."
+            }
+          },
+          "picture": "assets/images/cleaning_window.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage industriel",
+              "description": "Solutions de nettoyage adaptées aux environnements industriels."
+            },
+            "ar": {
+              "name": "التنظيف الصناعي",
+              "description": "حلول تنظيف مخصصة للبيئات الصناعية."
+            },
+            "zh": {
+              "name": "工业清洁",
+              "description": "适用于工业环境的清洁解决方案。"
+            },
+            "eng": {
+              "name": "Industrial Cleaning",
+              "description": "Cleaning solutions tailored for industrial environments."
+            }
+          },
+          "picture": "assets/images/cleaning_industrial.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage moquettes",
+              "description": "Service de nettoyage en profondeur pour tous types de moquettes."
+            },
+            "ar": {
+              "name": "تنظيف السجاد",
+              "description": "خدمة تنظيف عميقة لجميع أنواع السجاد."
+            },
+            "zh": {
+              "name": "地毯清洁",
+              "description": "各类地毯的深度清洁服务。"
+            },
+            "eng": {
+              "name": "Carpet Cleaning",
+              "description": "Deep cleaning service for all types of carpets."
+            }
+          },
+          "picture": "assets/images/cleaning_carpet.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de parquets",
+              "description": "Service spécialisé pour l'entretien et le nettoyage de parquets."
+            },
+            "ar": {
+              "name": "تنظيف الأرضيات الخشبية",
+              "description": "خدمة متخصصة لصيانة وتنظيف الأرضيات الخشبية."
+            },
+            "zh": {
+              "name": "木地板清洁",
+              "description": "木地板的专业维护和清洁服务。"
+            },
+            "eng": {
+              "name": "Wooden Floor Cleaning",
+              "description": "Specialized service for maintenance and cleaning of wooden floors."
+            }
+          },
+          "picture": "assets/images/cleaning_wooden_floor.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Ponçage et cristallisation de marbres",
+              "description": "Traitement professionnel pour restaurer et faire briller les surfaces en marbre."
+            },
+            "ar": {
+              "name": "صنفرة وتبلور الرخام",
+              "description": "معالجة احترافية لاستعادة وتلميع الأسطح الرخامية."
+            },
+            "zh": {
+              "name": "大理石打磨和结晶",
+              "description": "恢复和增亮大理石表面的专业处理。"
+            },
+            "eng": {
+              "name": "Marble Sanding and Crystallization",
+              "description": "Professional treatment to restore and shine marble surfaces."
+            }
+          },
+          "picture": "assets/images/cleaning_marble.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage et cristallisation carrelages",
+              "description": "Service de nettoyage et traitement pour redonner de l'éclat aux carrelages."
+            },
+            "ar": {
+              "name": "تنظيف وتبلور البلاط",
+              "description": "خدمة تنظيف ومعالجة لإعادة اللمعان إلى البلاط."
+            },
+            "zh": {
+              "name": "瓷砖清洁和结晶",
+              "description": "恢复瓷砖光泽的清洁和处理服务。"
+            },
+            "eng": {
+              "name": "Tile Cleaning and Crystallization",
+              "description": "Cleaning and treatment service to restore shine to tiles."
+            }
+          },
+          "picture": "assets/images/cleaning_tile.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage et cristallisation mosaïques",
+              "description": "Service spécialisé pour le nettoyage et la restauration de mosaïques."
+            },
+            "ar": {
+              "name": "تنظيف وتبلور الفسيفساء",
+              "description": "خدمة متخصصة لتنظيف وترميم الفسيفساء."
+            },
+            "zh": {
+              "name": "马赛克清洁和结晶",
+              "description": "马赛克清洁和修复的专业服务。"
+            },
+            "eng": {
+              "name": "Mosaic Cleaning and Crystallization",
+              "description": "Specialized service for cleaning and restoring mosaics."
+            }
+          },
+          "picture": "assets/images/cleaning_mosaic.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Ponçage et cristallisation sols",
+              "description": "Service de traitement pour tous types de sols en pierre ou marbre."
+            },
+            "ar": {
+              "name": "صنفرة وتبلور الأرضيات",
+              "description": "خدمة معالجة لجميع أنواع الأرضيات الحجرية أو الرخامية."
+            },
+            "zh": {
+              "name": "地板打磨和结晶",
+              "description": "各类石材或大理石地板的处理服务。"
+            },
+            "eng": {
+              "name": "Floor Sanding and Crystallization",
+              "description": "Treatment service for all types of stone or marble floors."
+            }
+          },
+          "picture": "assets/images/cleaning_floor_crystal.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Ponçage de parquets",
+              "description": "Service de rénovation et finition pour parquets en bois."
+            },
+            "ar": {
+              "name": "صنفرة الأرضيات الخشبية",
+              "description": "خدمة تجديد وتشطيب للأرضيات الخشبية."
+            },
+            "zh": {
+              "name": "木地板打磨",
+              "description": "木地板翻新和修整服务。"
+            },
+            "eng": {
+              "name": "Wooden Floor Sanding",
+              "description": "Renovation and finishing service for wooden floors."
+            }
+          },
+          "picture": "assets/images/cleaning_wood_sanding.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Entretien moquettes",
+              "description": "Service de maintenance régulière et traitement des moquettes."
+            },
+            "ar": {
+              "name": "صيانة السجاد",
+              "description": "خدمة الصيانة المنتظمة ومعالجة السجاد."
+            },
+            "zh": {
+              "name": "地毯维护",
+              "description": "地毯的定期维护和处理服务。"
+            },
+            "eng": {
+              "name": "Carpet Maintenance",
+              "description": "Regular maintenance service and treatment for carpets."
+            }
+          },
+          "picture": "assets/images/cleaning_carpet_maintenance.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de tapis",
+              "description": "Service spécialisé pour le nettoyage en profondeur des tapis."
+            },
+            "ar": {
+              "name": "تنظيف السجاد الصغير",
+              "description": "خدمة متخصصة للتنظيف العميق للسجاد الصغير."
+            },
+            "zh": {
+              "name": "地毯深度清洁",
+              "description": "地毯深度清洁的专业服务。"
+            },
+            "eng": {
+              "name": "Rug Cleaning",
+              "description": "Specialized service for deep cleaning of rugs."
+            }
+          },
+          "picture": "assets/images/cleaning_rug.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage de canapés",
+              "description": "Service de nettoyage professionnel pour tous types de canapés et fauteuils."
+            },
+            "ar": {
+              "name": "تنظيف الأرائك",
+              "description": "خدمة تنظيف احترافية لجميع أنواع الأرائك والكراسي."
+            },
+            "zh": {
+              "name": "沙发清洁",
+              "description": "各类沙发和扶手椅的专业清洁服务。"
+            },
+            "eng": {
+              "name": "Sofa Cleaning",
+              "description": "Professional cleaning service for all types of sofas and armchairs."
+            }
+          },
+          "picture": "assets/images/cleaning_sofa.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage des chaises",
+              "description": "Service de nettoyage spécialisé pour chaises et sièges de tous types."
+            },
+            "ar": {
+              "name": "تنظيف الكراسي",
+              "description": "خدمة تنظيف متخصصة للكراسي والمقاعد من جميع الأنواع."
+            },
+            "zh": {
+              "name": "椅子清洁",
+              "description": "各类椅子和座椅的专业清洁服务。"
+            },
+            "eng": {
+              "name": "Chair Cleaning",
+              "description": "Specialized cleaning service for chairs and seats of all types."
+            }
+          },
+          "picture": "assets/images/cleaning_chair.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Nettoyage et dégraissage des hottes",
+              "description": "Service de nettoyage professionnel pour systèmes d'extraction de cuisine."
+            },
+            "ar": {
+              "name": "تنظيف وإزالة الشحوم من أغطية المطبخ",
+              "description": "خدمة تنظيف احترافية لأنظمة استخراج المطبخ."
+            },
+            "zh": {
+              "name": "油烟机清洁和除油",
+              "description": "厨房排气系统的专业清洁服务。"
+            },
+            "eng": {
+              "name": "Hood Cleaning and Degreasing",
+              "description": "Professional cleaning service for kitchen extraction systems."
+            }
+          },
+          "picture": "assets/images/cleaning_hood.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "L'assainissement",
+              "description": "Services de désinfection et assainissement pour tous types d'espaces."
+            },
+            "ar": {
+              "name": "التطهير",
+              "description": "خدمات التعقيم والتطهير لجميع أنواع المساحات."
+            },
+            "zh": {
+              "name": "消毒服务",
+              "description": "各类空间的消毒和卫生处理服务。"
+            },
+            "eng": {
+              "name": "Sanitation",
+              "description": "Disinfection and sanitation services for all types of spaces."
+            }
+          },
+          "picture": "assets/images/cleaning_sanitation.png"
+        },
+        {
+          "translations": {
+            "fr": {
+              "name": "Traitement des piscines",
+              "description": "Service d'entretien et de traitement pour piscines et bassins."
+            },
+            "ar": {
+              "name": "معالجة حمامات السباحة",
+              "description": "خدمة صيانة ومعالجة لحمامات السباحة والأحواض."
+            },
+            "zh": {
+              "name": "游泳池处理",
+              "description": "游泳池和水池的维护和处理服务。"
+            },
+            "eng": {
+              "name": "Pool Treatment",
+              "description": "Maintenance and treatment service for swimming pools and basins."
+            }
+          },
+          "picture": "assets/images/cleaning_pool.png"
         }
       ]
     }
