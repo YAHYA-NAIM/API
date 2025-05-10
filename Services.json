@@ -28,7 +28,7 @@
               "description": "Cleaning service for office spaces."
             }
           },
-          "picture": "assets/images/cleaning_office.png"
+          "picture": "https://i.pinimg.com/736x/69/36/64/693664823d4efe3330e35cba838f4f14.jpg"
         },
         {
           "translations": {
@@ -49,7 +49,7 @@
               "description": "Cleaning staff service for all types of spaces."
             }
           },
-          "picture": "assets/images/cleaning_housekeeping.png"
+          "picture": "https://i.pinimg.com/736x/ba/52/08/ba52081b8b4cf0eb64576103ef713175.jpg"
         },
         {
           "translations": {
@@ -70,7 +70,7 @@
               "description": "Cleaning service after construction or renovation."
             }
           },
-          "picture": "assets/images/cleaning_post_construction.png"
+          "picture": "https://i.pinimg.com/736x/a8/e7/0a/a8e70a1c696a62b6a9d7a1b3c5931e23.jpg"
         },
         {
           "translations": {
@@ -91,7 +91,7 @@
               "description": "Cleaning service after renovation or repair work."
             }
           },
-          "picture": "assets/images/cleaning_after_work.png"
+          "picture": "https://i.pinimg.com/736x/4d/9a/55/4d9a55ecfd15b2123eeacc7178ef3f0f.jpg"
         },
         {
           "translations": {
@@ -112,7 +112,7 @@
               "description": "Cleaning service for commercial and industrial premises."
             }
           },
-          "picture": "assets/images/cleaning_premises.png"
+          "picture": "https://i.pinimg.com/736x/1a/2a/62/1a2a624f0255b23b96dcca659e0915b6.jpg"
         },
         {
             "translations": {
@@ -133,7 +133,7 @@
             "description": "Cleaning service for residential houses."
           }
         },
-        "picture": "assets/images/cleaning_house.png"
+        "picture": "https://i.pinimg.com/736x/5a/d3/bb/5ad3bb3a2e65bdae78eb73acf5762406.jpg"
       },
       {
         "translations": {
@@ -154,7 +154,7 @@
             "description": "Cleaning service for apartments."
           }
         },
-        "picture": "assets/images/cleaning_apartment.png"
+        "picture": "https://i.pinimg.com/736x/5a/d3/bb/5ad3bb3a2e65bdae78eb73acf5762406.jpg"
       },
       {
         "translations": {
@@ -175,7 +175,7 @@
             "description": "Cleaning service for luxury villas."
           }
         },
-        "picture": "assets/images/cleaning_villa.png"
+        "picture": "https://i.pinimg.com/736x/5a/d3/bb/5ad3bb3a2e65bdae78eb73acf5762406.jpg"
       },
       {
         "translations": {
@@ -196,7 +196,7 @@
             "description": "Cleaning service for buildings and residences."
           }
         },
-        "picture": "assets/images/cleaning_building_residence.png"
+        "picture": "https://i.pinimg.com/736x/5a/d3/bb/5ad3bb3a2e65bdae78eb73acf5762406.jpg"
       },
       {
         "translations": {
@@ -217,7 +217,7 @@
             "description": "Cleaning service for hotels and resorts."
           }
         },
-        "picture": "assets/images/cleaning_hotel.png"
+        "picture": "https://i.pinimg.com/736x/87/35/36/87353658935a6806c4bb785f230ce95a.jpg"
         },
         {
               "translations": {
@@ -238,7 +238,7 @@
               "description": "Cleaning service for restaurants and dining establishments."
             }
           },
-          "picture": "assets/images/cleaning_restaurant.png"
+          "picture": "https://i.pinimg.com/736x/b6/4c/e9/b64ce972a62ab29cb953411d5efda43d.jpg"
         },
         {
           "translations": {
@@ -259,7 +259,7 @@
               "description": "Cleaning service for windows and glass surfaces."
             }
           },
-          "picture": "assets/images/cleaning_windows.png"
+          "picture": "https://i.pinimg.com/736x/b7/b4/0d/b7b40d178f312879a92d8c93230c74f6.jpg"
         },
         {
           "translations": {
@@ -280,7 +280,7 @@
               "description": "Cleaning service for industrial sites and factories."
             }
           },
-          "picture": "assets/images/cleaning_industrial.png"
+          "picture": "https://i.pinimg.com/736x/90/f3/4e/90f34ec1ba6d021832b1283cfcd4133f.jpg"
         },
         {
           "translations": {
@@ -301,7 +301,7 @@
               "description": "Cleaning service for carpets and rugs."
             }
           },
-          "picture": "assets/images/cleaning_carpet.png"
+          "picture": "https://i.pinimg.com/736x/32/b0/82/32b0825dc128b91237749fddaec073c1.jpg"
         },
         {
           "translations": {
@@ -322,7 +322,7 @@
               "description": "Cleaning service for wooden floors and parquet."
             }
           },
-          "picture": "assets/images/cleaning_wooden_floor.png"
+          "picture": "https://i.pinimg.com/736x/08/9d/23/089d234124fd6d054a12f4069eb889d9.jpg"
         },
         {
             "translations": {
@@ -343,7 +343,7 @@
             "description": "Polishing and crystallization service for marble surfaces."
           }
         },
-        "picture": "assets/images/polishing_marble.png"
+        "picture": "https://i.pinimg.com/736x/48/c0/aa/48c0aacc26a9deff306f5f61d5e09d57.jpg"
       },
       {
         "translations": {
@@ -364,7 +364,7 @@
             "description": "Cleaning and crystallization service for ceramic and porcelain tiles."
           }
         },
-        "picture": "assets/images/cleaning_tiles.png"
+        "picture": "https://i.pinimg.com/736x/48/c0/aa/48c0aacc26a9deff306f5f61d5e09d57.jpg"
       },
       {
         "translations": {
@@ -385,7 +385,7 @@
             "description": "Cleaning and crystallization service for mosaic surfaces."
           }
         },
-        "picture": "assets/images/cleaning_mosaic.png"
+        "picture": "https://i.pinimg.com/736x/e0/c6/27/e0c627c30667f85f4c1c10eaa84b2ec0.jpg"
       },
       {
         "translations": {
@@ -406,7 +406,7 @@
             "description": "Polishing and crystallization service for stone floors and other materials."
           }
         },
-        "picture": "assets/images/polishing_floors.png"
+        "picture": "https://i.pinimg.com/736x/e0/c6/27/e0c627c30667f85f4c1c10eaa84b2ec0.jpg"
       },
       {
         "translations": {
@@ -427,7 +427,7 @@
             "description": "Sanding service for wooden parquet floors."
           }
         },
-        "picture": "assets/images/sanding_parquet.png"
+        "picture": "https://i.pinimg.com/736x/34/18/88/34188838a1ba19e6b68a89b2882a59f7.jpg"
         },
         {
           "translations": {
@@ -448,7 +448,7 @@
               "description": "Maintenance and cleaning service for carpets and rugs."
             }
           },
-          "picture": "assets/images/maintenance_carpet.png"
+          "picture": "https://i.pinimg.com/736x/9e/12/ca/9e12ca55a0b545eb246636931aa2538a.jpg"
         },
         {
           "translations": {
@@ -469,7 +469,7 @@
               "description": "Cleaning service for rugs of all sizes and materials."
             }
           },
-          "picture": "assets/images/cleaning_rug.png"
+          "picture": "https://i.pinimg.com/736x/9e/12/ca/9e12ca55a0b545eb246636931aa2538a.jpg"
         },
         {
           "translations": {
@@ -490,7 +490,7 @@
               "description": "Cleaning service for sofas, armchairs, and other upholstered furniture."
             }
           },
-          "picture": "assets/images/cleaning_sofa.png"
+          "picture": "https://i.pinimg.com/736x/5c/62/6f/5c626ff96af35291bf610db55b622d59.jpg"
         },
         {
           "translations": {
@@ -511,7 +511,7 @@
               "description": "Cleaning service for chairs, including office and lounge chairs."
             }
           },
-          "picture": "assets/images/cleaning_chairs.png"
+          "picture": "https://i.pinimg.com/736x/fe/c8/b6/fec8b60c3fe50b7d586545a8dcc34656.jpg"
         },
         {
           "translations": {
@@ -532,7 +532,7 @@
               "description": "Cleaning and degreasing service for kitchen hoods."
             }
           },
-          "picture": "assets/images/cleaning_hood.png"
+          "picture": "https://i.pinimg.com/736x/b8/65/cf/b865cf0c53c01400912ae375f51db893.jpg"
         },
         {
           "translations": {
@@ -553,7 +553,7 @@
               "description": "Pool treatment and maintenance service, including chemical management and water care."
             }
           },
-          "picture": "assets/images/pool_treatment.png"
+          "picture": "https://i.pinimg.com/736x/b2/4f/a2/b24fa283922e26b947bcef2eff7e88cd.jpg"
         }
       ]
     },
@@ -585,7 +585,7 @@
               "description": "Decoration service for garden landscaping."
             }
           },
-          "picture": "assets/images/garden_decoration.png"
+          "picture": "https://i.pinimg.com/736x/22/37/7c/22377c856493164678daedb0beefa1b6.jpg"
         },
         {
           "translations": {
@@ -606,7 +606,7 @@
               "description": "Fence installation for garden landscaping."
             }
           },
-          "picture": "assets/images/garden_fencing.png"
+          "picture": "https://i.pinimg.com/736x/c6/0d/f8/c60df8a9c9f56905817ee773ebc52431.jpg"
         },
         {
           "translations": {
@@ -627,7 +627,7 @@
               "description": "Designing and creating customized gardens."
             }
           },
-          "picture": "assets/images/garden_creation.png"
+          "picture": "https://i.pinimg.com/736x/e6/17/bf/e617bff2f23cb1396dc32756b175ce7f.jpg"
         },
         {
           "translations": {
@@ -648,7 +648,7 @@
               "description": "Designing water features and landscaping with water."
             }
           },
-          "picture": "assets/images/water_features.png"
+          "picture": "https://i.pinimg.com/736x/9c/d9/22/9cd922a349c7d9d24c4f7664105938c3.jpg"
         },
         {
           "translations": {
@@ -669,7 +669,7 @@
               "description": "Tree pruning service for maintenance."
             }
           },
-          "picture": "assets/images/tree_pruning.png"
+          "picture": "https://i.pinimg.com/736x/4a/c1/71/4ac171e2aad517d6a4c06d83b12b46c1.jpg"
         },
         {
           "translations": {
@@ -690,7 +690,7 @@
               "description": "Pruning service specifically for palm trees."
             }
           },
-          "picture": "assets/images/palm_pruning.png"
+          "picture": "https://i.pinimg.com/736x/0b/77/9a/0b779a038e2ed493666bcc3de2d11d05.jpg"
         },
         {
           "translations": {
@@ -711,7 +711,7 @@
               "description": "Regular maintenance services for gardens."
             }
           },
-          "picture": "assets/images/garden_maintenance.png"
+          "picture": "https://i.pinimg.com/736x/12/d2/13/12d213dd9ee97a01b6ed5679ac9aac3a.jpg"
         },
         {
           "translations": {
@@ -732,7 +732,7 @@
           "description": "Maintenance services for green spaces including mowing, weeding, and pruning."
         }
       },
-      "picture": "assets/images/green_space_maintenance.png"
+      "picture": "https://i.pinimg.com/736x/50/04/71/500471f1601a84ea91eedf8a62acda3d.jpg"
       },
       {
         "translations": {
@@ -753,7 +753,7 @@
             "description": "Garden waste removal service, including green waste and other debris."
           }
         },
-        "picture": "assets/images/waste_removal.png"
+        "picture": "https://i.pinimg.com/736x/be/d5/a1/bed5a11ae2b1292b3c8c48e9c65b9af0.jpg"
       },
       {
         "translations": {
@@ -774,7 +774,7 @@
             "description": "Installation of artificial turf that perfectly mimics natural grass."
           }
         },
-        "picture": "assets/images/artificial_turf.png"
+        "picture": "https://i.pinimg.com/736x/97/bb/c3/97bbc3bb060b4ba83176b9218374fb58.jpg"
       },
       {
         "translations": {
@@ -795,7 +795,7 @@
             "description": "Automatic irrigation system to keep green spaces healthy."
           }
         },
-        "picture": "assets/images/automatic_irrigation.png"
+        "picture": "https://i.pinimg.com/736x/bf/3a/55/bf3a559b3cced591d607158a00a67873.jpg"
       },
       {
         "translations": {
@@ -816,7 +816,7 @@
             "description": "Sale of plants and gardening accessories."
           }
         },
-        "picture": "assets/images/garden_nursery.png"
+        "picture": "https://i.pinimg.com/736x/c2/23/db/c223dbf25ab30f82bced8a802f490fd9.jpg"
       },
       {
         "translations": {
@@ -837,7 +837,7 @@
             "description": "Renovation and redesign of existing green spaces."
           }
         },
-        "picture": "assets/images/green_space_renovation.png"
+        "picture": "https://i.pinimg.com/736x/af/da/6e/afda6e5747022119924e53e6b60af9eb.jpg"
       },
       {
         "translations": {
@@ -858,7 +858,7 @@
             "description": "Treatment of plants against diseases and pests."
           }
         },
-        "picture": "assets/images/phytosanitary_treatment.png"
+        "picture": "https://i.pinimg.com/736x/70/75/f6/7075f650498cb4caa5a330c7d3f7ac75.jpgg"
         }
       ]
     },
@@ -890,7 +890,7 @@
               "description": "Installation and maintenance of air handling units to improve air quality."
             }
           },
-          "picture": "assets/images/air_handling_unit.png"
+          "picture": "https://i.pinimg.com/736x/85/dc/ff/85dcff0493e2d814854f2e49f0fabd22.jpg"
         },
         {
           "translations": {
@@ -911,7 +911,7 @@
               "description": "Air conditioning solutions for residential apartments."
             }
           },
-          "picture": "assets/images/apartment_ac.png"
+          "picture": "https://i.pinimg.com/736x/03/07/bf/0307bfc2bc69f36c8039511441b72173.jpg"
         },
         {
           "translations": {
@@ -932,7 +932,7 @@
               "description": "Installation of air conditioning systems for office environments."
             }
           },
-          "picture": "assets/images/office_ac.png"
+          "picture": "https://i.pinimg.com/736x/63/97/d1/6397d1e0a94eccd96d7c17b2db61759c.jpg"
         },
         {
           "translations": {
@@ -953,7 +953,7 @@
               "description": "Integrated solutions for air conditioning and ventilation to ensure optimal comfort."
             }
           },
-          "picture": "assets/images/ac_ventilation.png"
+          "picture": "https://i.pinimg.com/736x/5b/e9/c5/5be9c580069d7ea05a818ffc48676bbd.jpg"
         },
         {
           "translations": {
@@ -974,7 +974,7 @@
               "description": "Installation of split air conditioners for single or multiple rooms."
             }
           },
-          "picture": "assets/images/split_ac.png"
+          "picture": "https://i.pinimg.com/736x/57/cf/4e/57cf4e040688ade1c1a3e90efe61ffc1.jpg"
         },
         {
           "translations": {
@@ -995,7 +995,7 @@
               "description": "Professional services for installing air conditioning systems."
             }
           },
-          "picture": "assets/images/ac_installation_company.png"
+          "picture": "https://i.pinimg.com/736x/dd/16/84/dd1684aa9e63a1db3ad6ae5590b919f2.jpg"
         },
         {
           "translations": {
@@ -1016,7 +1016,7 @@
               "description": "Cooling and air conditioning solutions for transport vehicles."
             }
           },
-          "picture": "assets/images/transport_ac.png"
+          "picture": "https://i.pinimg.com/736x/16/71/55/1671554af18b11218b8c6c7ed20f4e98.jpg"
         },
         {
         "translations": {
@@ -1037,7 +1037,7 @@
             "description": "Industrial cooling solutions for various sectors."
           }
         },
-        "picture": "assets/images/industrial_cooling.png"
+        "picture": "https://i.pinimg.com/736x/58/47/b8/5847b80c513687995a0c6af2de041a86.jpg"
       },
       {
         "translations": {
@@ -1058,7 +1058,7 @@
             "description": "Installation of cold rooms to preserve perishable goods."
           }
         },
-        "picture": "assets/images/cold_room_installation.png"
+        "picture": "https://i.pinimg.com/736x/d0/af/46/d0af462439041798fc61b3644abd079e.jpg"
       },
       {
         "translations": {
@@ -1079,7 +1079,7 @@
             "description": "Complete air conditioning system installation service."
           }
         },
-        "picture": "assets/images/ac_installation.png"
+        "picture": "https://i.pinimg.com/736x/57/cf/4e/57cf4e040688ade1c1a3e90efe61ffc1.jpg"
       },
       {
         "translations": {
@@ -1100,7 +1100,7 @@
             "description": "Quick installation and troubleshooting of AC systems."
           }
         },
-        "picture": "assets/images/ac_repair.png"
+        "picture": "https://i.pinimg.com/736x/f3/aa/d3/f3aad38e79df848bed09bc2fb83949d6.jpg"
       },
       {
         "translations": {
@@ -1121,7 +1121,7 @@
             "description": "Installation and regular maintenance of AC systems."
           }
         },
-        "picture": "assets/images/ac_maintenance.png"
+        "picture": "https://i.pinimg.com/736x/f3/aa/d3/f3aad38e79df848bed09bc2fb83949d6.jpg"
       },
       {
         "translations": {
@@ -1142,7 +1142,7 @@
             "description": "Soundproofing solutions to reduce noise pollution."
           }
         },
-        "picture": "assets/images/acoustic_insulation.png"
+        "picture": "https://i.pinimg.com/736x/3c/12/dc/3c12dca23fa09ad48710856d53ae2661.jpg"
       },
       {
         "translations": {
@@ -1163,7 +1163,7 @@
             "description": "Thermal insulation for industrial refrigeration setups."
           }
         },
-        "picture": "assets/images/refrigeration_insulation.png"
+        "picture": "https://i.pinimg.com/736x/cb/bb/0b/cbbb0bb3566fa8d9295bb63687a7215e.jpg"
         },
         {
           "translations": {
@@ -1184,7 +1184,7 @@
               "description": "Insulation solutions for industrial environments."
             }
           },
-          "picture": "assets/images/industrial_insulation.png"
+          "picture": "https://i.pinimg.com/736x/1f/80/81/1f8081782073fb739059b6ac67ea0658.jpg"
         },
         {
           "translations": {
@@ -1205,7 +1205,7 @@
               "description": "Reducing heat loss with thermal insulation."
             }
           },
-          "picture": "assets/images/thermal_insulation.png"
+          "picture": "https://i.pinimg.com/736x/1f/80/81/1f8081782073fb739059b6ac67ea0658.jpg"
         },
         {
           "translations": {
@@ -1226,7 +1226,7 @@
               "description": "Regular maintenance services for HVAC systems."
             }
           },
-          "picture": "assets/images/maintenance_service.png"
+          "picture": "https://i.pinimg.com/736x/0d/bb/9f/0dbb9f446dba7a8368f950f83c71279c.jpg"
         },
         {
           "translations": {
@@ -1247,7 +1247,7 @@
               "description": "Maintenance and repair of refrigeration systems."
             }
           },
-          "picture": "assets/images/refrigeration_maintenance.png"
+          "picture": "https://i.pinimg.com/736x/c2/23/da/c223dafeff3bd8a38026fa7eac0a3541.jpg"
         },
         {
           "translations": {
@@ -1268,7 +1268,7 @@
               "description": "Installation and maintenance of heat pumps and air conditioners."
             }
           },
-          "picture": "assets/images/heat_pump_ac.png"
+          "picture": "https://i.pinimg.com/736x/15/26/da/1526da2617c2bf02248dd418d12a0c5c.jpg"
         },
         {
           "translations": {
@@ -1289,7 +1289,7 @@
               "description": "Installation of mechanical ventilation systems for better air quality."
             }
           },
-          "picture": "assets/images/mechanical_ventilation.png"
+          "picture": "https://i.pinimg.com/736x/15/26/da/1526da2617c2bf02248dd418d12a0c5c.jpg"
         }
       ]
     },
@@ -1321,7 +1321,7 @@
               "description": "Installation of cameras to monitor and secure locations."
             }
           },
-          "picture": "assets/images/surveillance_cameras.png"
+          "picture": "https://i.pinimg.com/736x/5c/4e/14/5c4e14fb780e48638a9fec44eea7d987.jpg"
         },
         {
           "translations": {
@@ -1342,7 +1342,7 @@
               "description": "Systems for managing building access."
             }
           },
-          "picture": "assets/images/access_control.png"
+          "picture": "https://i.pinimg.com/736x/9e/9e/1e/9e9e1eb720e0a540fa2f690e6b40392e.jpg"
         },
         {
           "translations": {
@@ -1363,7 +1363,7 @@
               "description": "Installation of automatic doors for enhanced comfort and security."
             }
           },
-          "picture": "assets/images/automatic_door.png"
+          "picture": "https://i.pinimg.com/736x/dd/d9/93/ddd993001b46cea80353968e884b7cdb.jpg"
         },
         {
           "translations": {
@@ -1384,7 +1384,7 @@
               "description": "Installation of armored doors for enhanced protection."
             }
           },
-          "picture": "assets/images/security_door.png"
+          "picture": "https://i.pinimg.com/736x/20/07/85/20078501e4d16557ff709e70e4f00410.jpg"
         },
         {
           "translations": {
@@ -1405,7 +1405,7 @@
               "description": "Sliding door systems for smooth and modern access."
             }
           },
-          "picture": "assets/images/sliding_door.png"
+          "picture": "https://i.pinimg.com/736x/a2/34/60/a234609f1931656718f758b89a092b95.jpg"
         },
         {
           "translations": {
@@ -1426,7 +1426,7 @@
               "description": "Connected doors integrated with smart home systems."
             }
           },
-          "picture": "assets/images/smart_door.png"
+          "picture": "https://i.pinimg.com/736x/fc/a9/b1/fca9b1f57b5061a6e8693859b838baf7.jpg"
         },
         {
           "translations": {
@@ -1447,7 +1447,7 @@
               "description": "Automated and remotely controlled garage doors."
             }
           },
-          "picture": "assets/images/smart_garage_door.png"
+          "picture": "https://i.pinimg.com/736x/d7/d5/9d/d7d59d7cbd41a3ba709f0b2e60a96340.jpg"
         },
         {
           "translations": {
@@ -1468,7 +1468,7 @@
               "description": "Fast-opening doors for efficient access to sensitive areas."
             }
           },
-          "picture": "assets/images/rapid_door.png"
+          "picture": "https://i.pinimg.com/736x/0b/16/17/0b1617a7e7d221469f7f355645fcc429.jpg"
         },
         {
           "translations": {
@@ -1489,7 +1489,7 @@
               "description": "Doors designed for demanding industrial environments."
             }
           },
-          "picture": "assets/images/industrial_sectional_door.png"
+          "picture": "https://i.pinimg.com/736x/db/ee/e1/dbeee1ec1c6f03d9a0723951393c7b83.jpg"
         },
         {
           "translations": {
@@ -1510,7 +1510,7 @@
               "description": "Door solutions for modern residential use."
             }
           },
-          "picture": "assets/images/residential_sectional_door.png"
+          "picture": "https://i.pinimg.com/736x/30/6e/8c/306e8c4984f9f6259c717505478c0c11.jpg"
         },
         {
           "translations": {
@@ -1531,7 +1531,7 @@
               "description": "Traditional doors opening inward or outward."
             }
           },
-          "picture": "assets/images/swing_doors.png"
+          "picture": "https://i.pinimg.com/736x/04/83/89/0483892b9465cb8c3188a0dba8734a55.jpg"
         },
         {
           "translations": {
@@ -1552,7 +1552,7 @@
               "description": "Upgrading existing surveillance systems."
             }
           },
-          "picture": "assets/images/surveillance_renovation.png"
+          "picture": "https://i.pinimg.com/736x/31/c5/6c/31c56c2c7baaa5c40216d70e9a6a86cd.jpg"
         },
         {
           "translations": {
@@ -1573,7 +1573,7 @@
               "description": "Installation of alarm systems for security."
             }
           },
-          "picture": "assets/images/alarm_system.png"
+          "picture": "https://i.pinimg.com/736x/4b/ff/4e/4bff4e66fa33a0a806d26e9f9f795f4f.jpg"
         },
         {
           "translations": {
@@ -1594,7 +1594,7 @@
               "description": "Systems for managing staff attendance and access."
             }
           },
-          "picture": "assets/images/time_attendance_system.png"
+          "picture": "https://i.pinimg.com/736x/12/02/00/120200c07bfacae353d2be65d1b06a5e.jpg"
         },
         {
           "translations": {
@@ -1615,7 +1615,7 @@
               "description": "Systems combining fire detection and intrusion protection."
             }
           },
-          "picture": "assets/images/fire_intrusion_system.png"
+          "picture": "https://i.pinimg.com/736x/93/ec/68/93ec6823178f5c97b862f20c15b0749a.jpg"
         },
         {
           "translations": {
@@ -1636,7 +1636,7 @@
               "description": "Devices designed to prevent theft and alert in case of intrusion."
             }
           },
-          "picture": "assets/images/anti_theft_system.png"
+          "picture": "https://i.pinimg.com/736x/9a/f8/7d/9af87dcc8edc8287e2b82ad05d4535a2.jpg"
         },
         {
           "translations": {
@@ -1657,7 +1657,7 @@
               "description": "Real-time remote monitoring via connected cameras and sensors."
             }
           },
-          "picture": "assets/images/remote_monitoring_system.png"
+          "picture": "https://i.pinimg.com/736x/33/09/42/33094260b1db3deedf728c9557aba56e.jpg"
         },
         {
           "translations": {
@@ -1678,7 +1678,7 @@
               "description": "Integration of roller shutters with home automation systems for smart control."
             }
           },
-          "picture": "assets/images/smart_roller_shutters.png"
+          "picture": "https://i.pinimg.com/736x/b4/70/3f/b4703fb12bc510191d34c2f27ae594aa.jpg"
         },
         {
           "translations": {
@@ -1699,7 +1699,7 @@
               "description": "Installation of roller shutters for security and thermal comfort."
             }
           },
-          "picture": "assets/images/roller_shutters.png"
+          "picture": "https://i.pinimg.com/736x/71/3a/63/713a6387182321548fc511150fcf7e88.jpg"
         }
       ]
     },
@@ -1731,7 +1731,7 @@
               "description": "Agent responsible for enforcing health safety measures."
             }
           },
-          "picture": "assets/images/covid_officer.png"
+          "picture": "https://www.affichage-obligatoire.net/article-image/21712-0/integration.jpg"
         },
         {
           "translations": {
@@ -1752,7 +1752,7 @@
               "description": "Security personnel for property and personal protection."
             }
           },
-          "picture": "assets/images/security_guard.png"
+          "picture": "https://i.pinimg.com/736x/b6/2d/64/b62d645fbc0da2f76d383672228d484b.jpg"
         },
         {
           "translations": {
@@ -1773,7 +1773,7 @@
               "description": "Professional driver for private or corporate transport."
             }
           },
-          "picture": "assets/images/private_driver.png"
+          "picture": "https://i.pinimg.com/736x/fc/24/b0/fc24b082c8064680f8e786c2570e90d0.jpg"
         },
         {
           "translations": {
@@ -1794,7 +1794,7 @@
               "description": "Security agent with a trained dog for patrol and intervention."
             }
           },
-          "picture": "assets/images/dog_handler.png"
+          "picture": "https://i.pinimg.com/736x/51/51/57/5151575599b3e903c5e8458e3cf19078.jpg"
         },
         {
           "translations": {
@@ -1815,7 +1815,7 @@
               "description": "Security management for public or private events."
             }
           },
-          "picture": "assets/images/event_security.png"
+          "picture": "https://i.pinimg.com/736x/74/de/23/74de23831ab2f8ea7a7d7be02d6471b9.jpg"
         },
         {
           "translations": {
@@ -1836,7 +1836,7 @@
               "description": "Personal close protection for VIPs or high-risk individuals."
             }
           },
-          "picture": "assets/images/close_protection.png"
+          "picture": "https://i.pinimg.com/736x/f2/a4/6b/f2a46b15c571f03bef58254fa8409b3c.jpg"
         },
         {
           "translations": {
@@ -1857,7 +1857,7 @@
               "description": "Comprehensive security solutions for businesses or homes."
             }
           },
-          "picture": "assets/images/security_solution.png"
+          "picture": "https://i.pinimg.com/736x/be/e7/1e/bee71e3e07b20876d07c2512dac58c0f.jpg"
         },
         {
           "translations": {
@@ -1878,7 +1878,7 @@
               "description": "24/7 remote monitoring to ensure ongoing security."
             }
           },
-          "picture": "assets/images/remote_surveillance.png"
+          "picture": "https://i.pinimg.com/736x/27/c7/47/27c74718ca7236e2447a37560fb43a5e.jpg"
         }
       ]
     },
@@ -1910,7 +1910,7 @@
               "description": "Fixing flickering light issues."
             }
           },
-          "picture": "assets/images/lighting_flicker.png"
+          "picture": "https://i.pinimg.com/736x/03/ce/d0/03ced0724ccda079b706f5b6034a2bb1.jpg"
         },
         {
           "translations": {
@@ -1931,7 +1931,7 @@
               "description": "Repair or replacement of damaged electrical equipment."
             }
           },
-          "picture": "assets/images/equipment_damage.png"
+          "picture": "https://i.pinimg.com/736x/ab/bf/ac/abbfac697b880aa49872b85d6ac21da8.jpg"
         },
         {
           "translations": {
@@ -1952,7 +1952,7 @@
               "description": "Analyzing short circuits and repairing related issues."
             }
           },
-          "picture": "assets/images/short_circuit.png"
+          "picture": "https://www.pole-amenagement-maison.fr/quest-ce-qui-peut-causer-un-court-circuit-electrique/"
         },
         {
           "translations": {
@@ -1973,7 +1973,7 @@
               "description": "Handling power cuts and voltage fluctuations."
             }
           },
-          "picture": "assets/images/voltage_drop.png"
+          "picture": "https://i.pinimg.com/736x/96/c5/6f/96c56f677ff2d31a2b2e38efb1c4cd22.jpg"
         },
         {
           "translations": {
@@ -1994,7 +1994,7 @@
               "description": "Quick intervention for all kinds of electrical failures."
             }
           },
-          "picture": "assets/images/electrical_troubleshooting.png"
+          "picture": "https://i.pinimg.com/736x/6f/7e/50/6f7e50c29a4363f74e16339d65d53ac7.jpg"
         },
         {
           "translations": {
@@ -2015,7 +2015,7 @@
               "description": "Electrical installation and maintenance for buildings."
             }
           },
-          "picture": "assets/images/building_electricity.png"
+          "picture": "https://i.pinimg.com/736x/29/a5/9c/29a59c243c0390e6e48065d55b66370d.jpg"
         },
         {
           "translations": {
@@ -2036,7 +2036,7 @@
               "description": "Electrical solutions for industrial facilities."
             }
           },
-          "picture": "assets/images/industrial_electricity.png"
+          "picture": "https://i.pinimg.com/736x/d4/af/d8/d4afd8ac1657bb0cec8d87130a3066e4.jpg"
         },
         {
       "translations": {
@@ -2057,7 +2057,7 @@
               "description": "Installation and maintenance of medium and low voltage electrical systems."
             }
           },
-          "picture": "assets/images/medium_low_voltage.png"
+          "picture": "https://i.pinimg.com/736x/75/56/17/755617330015284ec967dd24a18471d3.jpg"
         },
         {
           "translations": {
@@ -2078,7 +2078,7 @@
               "description": "Installation and setup of electrical entry points in buildings."
             }
           },
-          "picture": "assets/images/electrical_entry.png"
+          "picture": "https://i.pinimg.com/736x/22/2d/3a/222d3a6739cd52dd76765b53ab92221a.jpg"
         },
         {
           "translations": {
@@ -2099,7 +2099,7 @@
               "description": "Temporary power supply for construction sites or events."
             }
           },
-          "picture": "assets/images/temporary_entry.png"
+          "picture": "https://i.pinimg.com/736x/de/a6/8e/dea68e17927240d06f4a6ce0cf5b83b6.jpg"
         },
         {
           "translations": {
@@ -2120,7 +2120,7 @@
               "description": "Compliance and safety checks for electrical installations."
             }
           },
-          "picture": "assets/images/electrical_inspection.png"
+          "picture": "https://i.pinimg.com/736x/30/f0/4a/30f04ae755ff32d2843db99278db154e.jpg"
         },
         {
           "translations": {
@@ -2141,7 +2141,7 @@
               "description": "Regular and preventive maintenance of electrical systems."
             }
           },
-          "picture": "assets/images/electrical_maintenance.png"
+          "picture": "https://i.pinimg.com/736x/89/96/c8/8996c85f5173d6511d6854c579adeeb4.jpg"
         },
         {
           "translations": {
@@ -2162,7 +2162,7 @@
               "description": "Diagnosing and resolving electrical system malfunctions."
             }
           },
-          "picture": "assets/images/electrical_malfunction.png"
+          "picture": "https://i.pinimg.com/736x/4f/a1/4d/4fa14d690a68ede522040fb5e26d989d.jpg"
         },
         {
           "translations": {
@@ -2183,7 +2183,7 @@
               "description": "Electrical restoration work after fire or flooding incidents."
             }
           },
-          "picture": "assets/images/post_disaster_repair.png"
+          "picture": "https://i.pinimg.com/736x/ab/1f/fa/ab1ffa4e8a997afc496805b0e029b14f.jpg"
         },
         {
           "translations": {
@@ -2204,7 +2204,7 @@
               "description": "Quick interventions to resolve electrical issues."
             }
           },
-          "picture": "assets/images/trouble_resolution.png"
+          "picture": "https://i.pinimg.com/736x/8a/97/53/8a975381909211e1d1d2b673fb15973e.jpg"
         },
         {
           "translations": {
@@ -2225,7 +2225,7 @@
               "description": "Safely restoring power after an outage."
             }
           },
-          "picture": "assets/images/power_restoration.png"
+          "picture": "https://i.pinimg.com/736x/89/96/c8/8996c85f5173d6511d6854c579adeeb4.jpg"
         },
         {
           "translations": {
@@ -2246,7 +2246,7 @@
               "description": "Diagnosing and fixing overheating issues in circuits."
             }
           },
-          "picture": "assets/images/electrical_overheating.png"
+          "picture": "https://i.pinimg.com/736x/6c/0e/e0/6c0ee061e9f8c35071e25c4a03b7f019.jpg"
         }
       ]
     },
@@ -2278,7 +2278,7 @@
               "description": "Strategic consulting in accounting and financial management."
             }
           },
-          "picture": "assets/images/consulting_strategy.png"
+          "picture": "https://i.pinimg.com/736x/6c/24/f4/6c24f4c7a181d856854a05da1fddefd0.jpg"
         },
         {
           "translations": {
@@ -2299,7 +2299,7 @@
               "description": "Consulting on tax matters for businesses."
             }
           },
-          "picture": "assets/images/tax_consulting.png"
+          "picture": "https://i.pinimg.com/736x/9f/04/58/9f0458643581ff3cb922dafafec38bc8.jpg"
         },
         {
           "translations": {
@@ -2320,7 +2320,7 @@
               "description": "Assistance with business creation and registration."
             }
           },
-          "picture": "assets/images/business_creation.png"
+          "picture": "https://i.pinimg.com/736x/24/6d/a4/246da4cdeb69fb8a91c0dc0c97093ef8.jpg"
         },
         {
           "translations": {
@@ -2341,7 +2341,7 @@
               "description": "Business and company domiciliation services."
             }
           },
-          "picture": "assets/images/business_domiciliation.png"
+          "picture": "https://i.pinimg.com/736x/0a/50/c9/0a50c9027042eb015d685b1920f96b79.jpg"
         },
         {
           "translations": {
@@ -2362,7 +2362,7 @@
               "description": "Managing taxation and accounting obligations for businesses."
             }
           },
-          "picture": "assets/images/tax_accounting.png"
+          "picture": "https://i.pinimg.com/736x/b9/3a/4b/b93a4bff5686f944c395c4236ef7be49.jpg"
         },
         {
           "translations": {
@@ -2383,7 +2383,7 @@
               "description": "Specialized training in accounting and taxation for professionals."
             }
           },
-          "picture": "assets/images/accounting_tax_training.png"
+          "picture": "https://i.pinimg.com/736x/55/12/ad/5512ad89d0ad9c50c43dd0e8cd9651da.jpg"
         },
         {
           "translations": {
@@ -2404,7 +2404,7 @@
               "description": "Legal consulting for managing business legal aspects."
             }
           },
-          "picture": "assets/images/business_legal.png"
+          "picture": "https://i.pinimg.com/736x/60/e8/77/60e8778a8d13b2087e1972a2f56654f7.jpg"
         },
         {
           "translations": {
@@ -2425,7 +2425,7 @@
               "description": "Complete payroll management and related tax filings."
             }
           },
-          "picture": "assets/images/payroll_management.png"
+          "picture": "https://i.pinimg.com/736x/df/87/e1/df87e1373145de199befa2466391489a.jpg"
         }
       ]
     },
@@ -2457,7 +2457,7 @@
               "description": "Rapid intervention for opening doors in emergencies."
             }
           },
-          "picture": "assets/images/urgent_door_opening.png"
+          "picture": "https://i.pinimg.com/736x/82/cc/b7/82ccb741ca8327eefb90f6fa837d3fde.jpg"
         },
         {
           "translations": {
@@ -2478,7 +2478,7 @@
               "description": "Service to open armored doors in case of key loss or malfunction."
             }
           },
-          "picture": "assets/images/armored_door_opening.png"
+          "picture": "https://i.pinimg.com/736x/a6/3e/59/a63e59a544ecf5c2e22c24f894d45021.jpg"
         },
         {
           "translations": {
@@ -2499,7 +2499,7 @@
               "description": "Installing armored handles to secure doors."
             }
           },
-          "picture": "assets/images/armored_handle_installation.png"
+          "picture": "https://i.pinimg.com/736x/df/18/7a/df187a2115b941a0e36faa2f66c1c230.jpg"
         },
         {
           "translations": {
@@ -2520,7 +2520,7 @@
               "description": "Installing multipoint locks for enhanced security."
             }
           },
-          "picture": "assets/images/multipoint_lock_installation.png"
+          "picture": "https://i.pinimg.com/736x/05/39/e4/0539e49b7a51fb8c00aceca809024695.jpg"
         },
         {
           "translations": {
@@ -2541,7 +2541,7 @@
               "description": "Installing cased locks for better protection."
             }
           },
-          "picture": "assets/images/cased_lock_installation.png"
+          "picture": "https://i.pinimg.com/736x/57/3c/00/573c005308fe17d5c73fe4e5bdde35fe.jpg"
         },
         {
           "translations": {
@@ -2562,7 +2562,7 @@
               "description": "Installing anti-grip corner plates to protect locks."
             }
           },
-          "picture": "assets/images/anti_grip_corner_installation.png"
+          "picture": "https://i.pinimg.com/736x/e0/b2/cb/e0b2cb7c9d5f9e69ae991f3e4d4a2847.jpg"
         },
         {
           "translations": {
@@ -2583,7 +2583,7 @@
               "description": "Installing high security locks for maximum protection."
             }
           },
-          "picture": "assets/images/high_security_lock.png"
+          "picture": "https://i.pinimg.com/736x/fc/a9/b1/fca9b1f57b5061a6e8693859b838baf7.jpg"
         },
         {
           "translations": {
@@ -2604,7 +2604,7 @@
               "description": "Installing metal curtains and grilles for store security."
             }
           },
-          "picture": "assets/images/metal_curtaind_grilles.png"
+          "picture": "https://i.pinimg.com/736x/eb/e5/84/ebe5849ebbf3ff42ae6fdc55cdd8b21c.jpg"
         },
         {
           "translations": {
@@ -2625,7 +2625,7 @@
               "description": "Installing armored doors for enhanced security."
             }
           },
-          "picture": "assets/images/armored_doors.png"
+          "picture": "https://i.pinimg.com/736x/12/74/87/1274875bbfcaa505d3c34b88bea23c58.jpg"
         }
       ]
     },
@@ -2657,7 +2657,7 @@
               "description": "Rodent control services for rats and mice."
             }
           },
-          "picture": "assets/images/rodent_control.png"
+          "picture": "https://i.pinimg.com/736x/ec/c4/03/ecc4031046147c545f732ba81000022c.jpg"
         },
         {
           "translations": {
@@ -2678,7 +2678,7 @@
               "description": "Insect pest control services."
             }
           },
-          "picture": "assets/images/insect_control.png"
+          "picture": "https://i.pinimg.com/736x/96/9b/db/969bdb4c9143991701198a8665e2014a.jpg"
         },
         {
           "translations": {
@@ -2699,7 +2699,7 @@
               "description": "Disinfection services to eliminate germs and bacteria."
             }
           },
-          "picture": "assets/images/disinfection.png"
+          "picture": "https://i.pinimg.com/736x/73/4c/f6/734cf674972ff5d928f315e923029fb0.jpg"
         },
         {
           "translations": {
@@ -2720,7 +2720,7 @@
               "description": "Control services for mice and rats."
             }
           },
-          "picture": "assets/images/anti_mice_rats.png"
+          "picture": "https://i.pinimg.com/736x/ec/c4/03/ecc4031046147c545f732ba81000022c.jpg"
         },
         {
           "translations": {
@@ -2741,7 +2741,7 @@
               "description": "Services to control cockroaches and bugs."
             }
           },
-          "picture": "assets/images/anti_cockroaches.png"
+          "picture": "https://i.pinimg.com/736x/26/cc/1f/26cc1f1d57d8b9cb4fd1a79805093b4d.jpg"
         },
         {
           "translations": {
@@ -2762,7 +2762,7 @@
               "description": "Ant control services."
             }
           },
-          "picture": "assets/images/anti_ants.png"
+          "picture": "https://i.pinimg.com/736x/78/e1/40/78e1404a300783fad4498f782880b9a8.jpg"
         },
         {
           "translations": {
@@ -2783,7 +2783,7 @@
               "description": "Flea control services."
             }
           },
-          "picture": "assets/images/anti_fleas.png"
+          "picture": "https://i.pinimg.com/736x/ee/b0/90/eeb09072033578c56adfaec1bb1cc7ad.jpg"
         },
         {
           "translations": {
@@ -2804,7 +2804,7 @@
               "description": "Bed bug control services."
             }
           },
-          "picture": "assets/images/anti_bed_bugs.png"
+          "picture": "https://i.pinimg.com/736x/ca/b4/9a/cab49aa20c3f76ae97b13b48e4a381f1.jpg"
         },
         {
           "translations": {
@@ -2825,7 +2825,7 @@
               "description": "Fly control services."
             }
           },
-          "picture": "assets/images/anti_flies.png"
+          "picture": "https://i.pinimg.com/736x/89/e0/a7/89e0a7bf8db30fd6a2fd236fe8abf8a8.jpg"
         },
         {
           "translations": {
@@ -2846,7 +2846,7 @@
               "description": "Mosquito control services."
             }
           },
-          "picture": "assets/images/anti_mosquitoes.png"
+          "picture": "https://i.pinimg.com/736x/da/7e/a8/da7ea8b691ebffb178ea869ada3d1863.jpg"
         },
         {
           "translations": {
@@ -2867,7 +2867,7 @@
               "description": "Scorpion control services."
             }
           },
-          "picture": "assets/images/anti_scorpions.png"
+          "picture": "https://i.pinimg.com/736x/ee/b0/90/eeb09072033578c56adfaec1bb1cc7ad.jpg"
         },
         {
           "translations": {
@@ -2888,7 +2888,7 @@
               "description": "Snake control services."
             }
           },
-          "picture": "assets/images/anti_snakes.png"
+          "picture": "https://i.pinimg.com/736x/ee/b0/90/eeb09072033578c56adfaec1bb1cc7ad.jpg"
         },
         {
           "translations": {
@@ -2909,7 +2909,7 @@
               "description": "Pigeon control services."
             }
           },
-          "picture": "assets/images/anti_pigeons.png"
+          "picture": "https://i.pinimg.com/736x/7f/75/12/7f75123a431f5cd177bddac59e5dcf32.jpg"
         },
         {
           "translations": {
@@ -2930,7 +2930,7 @@
               "description": "General insect control services."
             }
           },
-          "picture": "assets/images/anti_insects.png"
+          "picture": "https://i.pinimg.com/736x/da/7e/a8/da7ea8b691ebffb178ea869ada3d1863.jpg"
         }
       ]
     }
